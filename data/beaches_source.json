@@ -1,0 +1,1607 @@
+[
+  {
+    "name": "Praia da Amoreira",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.351889,
+    "lon": -8.844547,
+    "drive_min": 20,
+    "directions": "Junto ao Complexo Desportivo de Aljezur encontra um desvio sinalizado para a Praia da Amoreira. A estrada alcatroada segue cerca de 7 km até à praia.",
+    "access": "Acesso fácil; escadas e passadiço em madeira.",
+    "facilities": "Restaurante/bar, apoio recreativo, telefone, parque de estacionamento e vigilância na época balnear.",
+    "notes": "Boa escolha para alternar entre mar e zona da ribeira; muito boa paisagem dunar.",
+    "best_for": [
+      "rio + mar",
+      "famílias",
+      "paisagem"
+    ],
+    "caution": "Dependendo da maré, a configuração da foz e das lagoas muda bastante.",
+    "gmaps": "https://www.google.com/maps?q=37.351889,-8.844547",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/574/praia-da-amoreira.aspx"
+      },
+      {
+        "label": "Turismo de Portugal",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-da-amoreira"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "surf",
+      "river"
+    ],
+    "family_score": 9.2,
+    "family_note": "Muito boa combinação de acessos simples, estacionamento e opção rio + mar.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/praia-da-amoreira/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia de Monte Clérigo",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.339903,
+    "lon": -8.853044,
+    "drive_min": 20,
+    "directions": "Saindo da vila de Aljezur no sentido Aljezur–Lagos, poucos metros depois encontra um entroncamento à direita com sinalização para Monte Clérigo e Arrifana. Siga a subida, vire à direita na bifurcação e continue até à praia.",
+    "access": "Acesso fácil por estrada alcatroada; entrada por rampa e/ou escadas em madeira; praia acessível.",
+    "facilities": "Instalações sanitárias, WC adaptado, parques de estacionamento, bares/restaurantes, posto de primeiros socorros, vigilância na época balnear, Praia Acessível e Bandeira Azul.",
+    "notes": "Excelente para famílias, para quem quer comodidade e também para observar poças de maré na baixa-mar.",
+    "best_for": [
+      "famílias",
+      "acessibilidade",
+      "restaurantes",
+      "poças de maré"
+    ],
+    "caution": "Pode ficar bastante concorrida em dias fortes de verão.",
+    "gmaps": "https://www.google.com/maps?q=37.339903,-8.853044",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/575/praia-de-monte-clerigo.aspx"
+      },
+      {
+        "label": "Turismo de Portugal",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-do-monte-cl%C3%A9rigo"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag",
+      "surf"
+    ],
+    "family_score": 9.6,
+    "family_note": "Muito forte para família: acessível, WC, restaurantes e bandeira azul.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/monte-clerigo/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia da Arrifana",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.294292,
+    "lon": -8.866258,
+    "drive_min": 20,
+    "directions": "Siga a sinalização à direita pouco depois da saída sul de Aljezur. No final da subida, vire à esquerda para a Praia da Arrifana.",
+    "access": "Acesso fácil; um acesso por rampa e outro por escadas em madeira.",
+    "facilities": "Instalações sanitárias, parque de estacionamento antes da descida, bar/restaurante, recolha de resíduos e vigilância na época balnear.",
+    "notes": "Praia muito procurada para surf/bodyboard e com uma baía relativamente abrigada.",
+    "best_for": [
+      "surf",
+      "restaurantes",
+      "fotografia"
+    ],
+    "caution": "O estacionamento e a circulação de automóveis podem ser condicionados em períodos de maior procura.",
+    "gmaps": "https://www.google.com/maps?q=37.294292,-8.866258",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/344/praia-da-arrifana.aspx"
+      },
+      {
+        "label": "Turismo de Portugal",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-da-arrifana"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag",
+      "surf"
+    ],
+    "family_score": 7.8,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/arrifana",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia da Barradinha",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.39382777777778,
+    "lon": -8.817863888888889,
+    "drive_min": 25,
+    "directions": "No Rogil, vira em direção a Esteveira e segue cerca de 2 km pela estrada municipal até ao cruzamento para Vale Juncal / Brejo da Moita / Maria Vinagre. Aí vira à esquerda, segue cerca de 400 m até outro cruzamento, e depois vira à direita, continuando pelo caminho de terra batida sempre em frente até à praia.",
+    "access": "Acesso fácil por escadas em madeira; no final poderá ser necessário atravessar um pequeno riacho.",
+    "facilities": "Estacionamento limitado; sem serviços de apoio; sem vigilância.",
+    "notes": "Pequena praia rochosa/calhau, muito interessante para observar poças de maré e vida marinha.",
+    "best_for": [
+      "poças de maré",
+      "natureza",
+      "menos gente"
+    ],
+    "caution": "Não tem serviços de apoio nem vigilância, e o fundo é mais de calhau/rocha do que de areia.",
+    "gmaps": "https://www.google.com/maps?q=37.39382777777778,-8.817863888888889",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/2165/barradinha.aspx"
+      }
+    ],
+    "features": [
+      "parking_limited",
+      "tidepools"
+    ],
+    "family_score": 5.0,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia da Carriagem",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.365783,
+    "lon": -8.835253,
+    "drive_min": 25,
+    "directions": "No Rogil, seguir a sinalização para Vale dos Homens e Carriagem. O caminho para a Carriagem é em terra batida e, após cerca de 2 km, bifurca; deves seguir pela direita, em direção ao mar, até ao pequeno parque no topo da arriba.",
+    "access": "Acesso difícil; descida a pé por carreiro/trilho.",
+    "facilities": "Sem infraestruturas e sem vigilância.",
+    "notes": "Mais rochosa/cascalho do que arenosa; muito interessante na maré baixa e ideal para quem quer sossego.",
+    "best_for": [
+      "sossego",
+      "maré baixa",
+      "formações rochosas"
+    ],
+    "caution": "Sem apoios, sem vigilância e com trilho de descida exigente.",
+    "gmaps": "https://www.google.com/maps?q=37.365783,-8.835253",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/862/praia-da-carriagem.aspx"
+      },
+      {
+        "label": "Costa Vicentina",
+        "url": "https://www.visitportugal.com/pt-pt/content/costa-vicentina"
+      }
+    ],
+    "features": [
+      "trail",
+      "tidepools"
+    ],
+    "family_score": 5.0,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia da Samouqueira",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.40711944444444,
+    "lon": -8.811225,
+    "drive_min": 25,
+    "directions": "No Rogil, vira em direção a Esteveira e segue essa estrada municipal até ao final do alcatrão. Continua em frente por caminho de terra batida; quando o caminho bifurcar, segue pela esquerda até ao final.",
+    "access": "Acesso difícil por trilho que desce a falésia.",
+    "facilities": "Estacionamento limitado; sem serviços de apoio; sem vigilância.",
+    "notes": "Conjunto de pequenas praias rochosas e de calhau, ideal para observação da natureza e da maré baixa.",
+    "best_for": [
+      "maré baixa",
+      "observação da natureza",
+      "sossego"
+    ],
+    "caution": "Há alerta oficial para evitar a faixa junto à arriba devido ao seu desprendimento e à existência de um fosso fundo.",
+    "gmaps": "https://www.google.com/maps?q=37.40711944444444,-8.811225",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/861/praia-da-samouqueira.aspx"
+      }
+    ],
+    "features": [
+      "parking_limited",
+      "tidepools"
+    ],
+    "family_score": 5.0,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia de Vale dos Homens",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.382889,
+    "lon": -8.825361,
+    "drive_min": 25,
+    "directions": "No Rogil, a meio do aglomerado ao longo da EN120, segue-se a sinalização para Vale dos Homens e Carriagem. A estrada para Vale dos Homens faz-se primeiro em alcatrão por cerca de 3 km e depois em terra batida. A entrada sul é a mais usada e tem estacionamento amplo no topo da arriba.",
+    "access": "Descida de média dificuldade por muitos lanços de escadas em madeira.",
+    "facilities": "Sem apoios de praia; vigilância na época balnear.",
+    "notes": "Muito tranquila e isolada; ótima para quem quer menos gente e não se importa com a grande escadaria.",
+    "best_for": [
+      "sossego",
+      "paisagem",
+      "menos gente"
+    ],
+    "caution": "A escadaria é longa; menos prática se fores carregado ou com crianças pequenas.",
+    "gmaps": "https://www.google.com/maps?q=37.382889,-8.825361",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/610/praia-de-vale-dos-homens.aspx"
+      },
+      {
+        "label": "Turismo de Portugal",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-do-vale-dos-homens"
+      }
+    ],
+    "features": [
+      "lifeguard",
+      "stairs"
+    ],
+    "family_score": 4.5,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia do Canal",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.270272,
+    "lon": -8.859744,
+    "drive_min": 25,
+    "directions": "Ao deixar a Arrifana no sentido Arrifana–Aljezur, cerca de 2 km depois surge à direita um caminho de terra batida. Siga-o até à Praia do Canal.",
+    "access": "Acesso difícil por caminho de terra batida; recomendável 4x4.",
+    "facilities": "Sem apoios e sem vigilância.",
+    "notes": "Uma das praias mais selvagens da Costa Vicentina; melhor para quem procura isolamento e paisagem bruta.",
+    "best_for": [
+      "isolamento",
+      "paisagem selvagem",
+      "aventura"
+    ],
+    "caution": "Acesso recomendado apenas para quem está confortável com piso pior e ausência total de serviços.",
+    "gmaps": "https://www.google.com/maps?q=37.270272,-8.859744",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/863/praia-do-canal.aspx"
+      },
+      {
+        "label": "VisitPortugal (surf spot)",
+        "url": "https://www.visitportugal.com/pt-pt/experiencias/surfing/wave/praia-do-canal"
+      }
+    ],
+    "features": [
+      "4x4"
+    ],
+    "family_score": 1.8,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia de Vale Figueiras",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.247281,
+    "lon": -8.868547,
+    "drive_min": 25,
+    "directions": "A cerca de 6 km a sul de Aljezur encontra um entroncamento à direita com indicação para Sagres / Vila do Bispo / Carrapateira / Bordeira. Siga essa direção e, passados cerca de 3,5 km, vire à direita nas indicações “Monte Novo” e “Vale Figueiras”. O percurso final até à praia tem troços de alcatrão e terra batida.",
+    "access": "Acesso relativamente simples no final, por curto passadiço; a estrada de aproximação inclui terra batida.",
+    "facilities": "Estacionamento para automóveis e bicicletas, recolha de resíduos e vigilância na época balnear.",
+    "notes": "Boa alternativa para quem quer um ambiente mais natural e menos concorrido sem um trilho duro.",
+    "best_for": [
+      "mais tranquilidade",
+      "natureza",
+      "surf"
+    ],
+    "caution": "A estrada de acesso não é tão confortável como nas praias principais.",
+    "gmaps": "https://www.google.com/maps?q=37.247281,-8.868547",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/576/praia-de-vale-figueiras.aspx"
+      },
+      {
+        "label": "Turismo de Portugal (EN)",
+        "url": "https://www.visitportugal.com/en/NR/exeres/B3A419D2-2738-4384-B817-2AA0F3EE7C29"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "surf"
+    ],
+    "family_score": 6.2,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia de Odeceixe",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.441303,
+    "lon": -8.798228,
+    "drive_min": 30,
+    "directions": "Pela EN120 no sentido Odemira–Aljezur, depois da ponte sobre a Ribeira de Seixe (já do lado algarvio), vire à direita para a Variante de Odeceixe e siga cerca de 3 km até à praia.",
+    "access": "Acesso fácil; rampa e escadas.",
+    "facilities": "Parque de estacionamento, bares, posto de informação turística, recolha de resíduos, comboio turístico entre a vila e a praia, vigilância na época balnear e Bandeira Azul.",
+    "notes": "Permite banhos de mar e de rio; especialmente agradável para famílias na maré baixa.",
+    "best_for": [
+      "famílias",
+      "rio + mar",
+      "dia completo"
+    ],
+    "caution": "Costuma ser muito conhecida e procurada em época alta.",
+    "gmaps": "https://www.google.com/maps?q=37.441303,-8.798228",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/573/praia-de-odeceixe.aspx"
+      },
+      {
+        "label": "Turismo de Portugal",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-de-odeceixe"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag",
+      "surf",
+      "river"
+    ],
+    "family_score": 9.1,
+    "family_note": "Excelente para famílias, sobretudo na maré baixa.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/odeceixe/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia das Adegas",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.43892222222222,
+    "lon": -8.800602777777778,
+    "drive_min": 30,
+    "directions": "Segue as indicações para a Praia de Odeceixe e, já na zona da praia, continua pela mesma estrada cerca de 500 m até ao parque de estacionamento junto ao miradouro no alto da falésia. Daí segue-se o caminho pedonal até à praia.",
+    "access": "Acesso fácil por passadiço e escadas; a enseada é acessível a sul de Odeceixe e tem ligação condicionada pela maré.",
+    "facilities": "Parque de estacionamento, recolha de resíduos e vigilância na época balnear.",
+    "notes": "Praia de naturismo oficial; muito interessante para quem quer uma enseada mais reservada ao lado de Odeceixe.",
+    "best_for": [
+      "mais recato",
+      "naturismo",
+      "fotografia"
+    ],
+    "caution": "A relação com a maré é importante; na maré alta o acesso é apenas pelo caminho pedonal da falésia.",
+    "gmaps": "https://www.google.com/maps?q=37.43892222222222,-8.800602777777778",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/860/praia-das-adegas.aspx"
+      },
+      {
+        "label": "Costa Vicentina",
+        "url": "https://www.visitportugal.com/pt-pt/content/costa-vicentina"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "naturism"
+    ],
+    "family_score": 5.0,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia da Bordeira",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.197097,
+    "lon": -8.902161,
+    "drive_min": 30,
+    "directions": "Saindo de Aljezur, cerca de 6 km a sul há um entroncamento à direita com indicação para Sagres / Vila do Bispo / Carrapateira / Bordeira. Siga nessa direção, passe a Bordeira e continue até à Carrapateira; na entrada da aldeia vire na primeira bifurcação à direita e siga até à praia.",
+    "access": "Acesso fácil por passadiço, embora seja normal ter de atravessar a ribeira a pé (habitualmente pouco profunda).",
+    "facilities": "Parque de estacionamento, apoio balnear, restaurante nas imediações e vigilância na época balnear.",
+    "notes": "Praia muito ampla, ventosa e muito procurada para surf, bodyboard e kitesurf.",
+    "best_for": [
+      "estrada fácil",
+      "espaço",
+      "kitesurf"
+    ],
+    "caution": "Terás normalmente de atravessar a ribeira a pé para chegar ao areal principal.",
+    "gmaps": "https://www.google.com/maps?q=37.197097,-8.902161",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://cm-aljezur.pt/pt/611/praia-da-bordeira.aspx"
+      },
+      {
+        "label": "Turismo de Portugal",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-da-bordeira-ou-carrapateira"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "surf"
+    ],
+    "family_score": 6.8,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia do Amado",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.167244,
+    "lon": -8.902472,
+    "drive_min": 35,
+    "directions": "Ao sair da Carrapateira no sentido Carrapateira–Sagres, siga o desvio à direita para a Praia do Amado. A estrada asfaltada leva até à praia ao longo de cerca de 3 km.",
+    "access": "Acesso fácil.",
+    "facilities": "Bar/apoio balnear, parque de estacionamento e vigilância na época balnear.",
+    "notes": "Uma das praias mais conhecidas para surf, com escolas e ambiente muito ligado às modalidades de ondas.",
+    "best_for": [
+      "surf",
+      "escolas de surf",
+      "areal amplo"
+    ],
+    "caution": "Pode ter bastante vento/ondulação; menos indicada para quem quer um dia de mar calmo.",
+    "gmaps": "https://www.google.com/maps?q=37.167244,-8.902472",
+    "official_links": [
+      {
+        "label": "Município de Aljezur",
+        "url": "https://mupih.cm-aljezur.pt/pt/577/praia-do-amado.aspx"
+      },
+      {
+        "label": "Turismo de Portugal",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-do-amado"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "surf"
+    ],
+    "family_score": 6.5,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/praia-do-amado/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia da Ingrina",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.046667,
+    "lon": -8.878889,
+    "directions": "Segue pela EN268 em direção a Vila do Bispo/Sagres e vira na Raposeira conforme a sinalização para a praia.",
+    "access": "Acesso fácil; pequena enseada com chegada direta a partir do parque.",
+    "facilities": "Parque, restaurante/bar, WC, vigilância na época balnear, praia acessível e Bandeira Azul.",
+    "notes": "Enseada abrigada, normalmente opção agradável quando queres água mais simpática.",
+    "best_for": [
+      "água mais calma",
+      "famílias",
+      "snorkeling"
+    ],
+    "caution": "Na época alta pode encher depressa porque o areal é pequeno.",
+    "gmaps": "https://www.google.com/maps?q=37.046667,-8.878889",
+    "official_links": [
+      {
+        "label": "Município de Vila do Bispo",
+        "url": "https://www.cm-viladobispo.pt/visitar/o-que-visitar/praias"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "drive_min": 45,
+    "family_score": 8.9,
+    "family_note": "Boa enseada para um dia mais calmo."
+  },
+  {
+    "name": "Praia da Salema",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.065682,
+    "lon": -8.822499,
+    "directions": "Segue até Budens e depois para a aldeia da Salema.",
+    "access": "Acesso fácil pela aldeia; passeio marginal e acessos simples ao areal.",
+    "facilities": "Estacionamento, WC, restaurantes e bares, vigilância na época balnear, praia acessível e Bandeira Azul.",
+    "notes": "Praia de aldeia piscatória, muito prática e confortável para família.",
+    "best_for": [
+      "famílias",
+      "aldeia",
+      "restaurantes"
+    ],
+    "caution": "No pico do verão o estacionamento e o espaço central podem ficar concorridos.",
+    "gmaps": "https://www.google.com/maps?q=37.065682,-8.822499",
+    "official_links": [
+      {
+        "label": "Município de Vila do Bispo",
+        "url": "https://www.cm-viladobispo.pt/visitar/o-que-visitar/praias"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "drive_min": 45,
+    "family_score": 8.8,
+    "family_note": "Muito prática pela aldeia, com restaurantes e acessos simples."
+  },
+  {
+    "name": "Praia do Burgau",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.0667,
+    "lon": -8.78333,
+    "directions": "Segue para Budens e Burgau; o acesso final é pela aldeia.",
+    "access": "Acesso fácil, embora o estacionamento possa exigir alguma paciência.",
+    "facilities": "Restaurantes, estacionamento, WC, vigilância na época balnear e Bandeira Azul.",
+    "notes": "Praia simpática em contexto de aldeia, boa para praia + almoço a pé.",
+    "best_for": [
+      "famílias",
+      "aldeia",
+      "banhos"
+    ],
+    "caution": "No verão pode ser difícil estacionar perto.",
+    "gmaps": "https://www.google.com/maps?q=37.066700,-8.783330",
+    "official_links": [
+      {
+        "label": "Município de Vila do Bispo (Burgau)",
+        "url": "https://www.cm-viladobispo.pt/visitar/o-que-visitar/praias/burgau"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "drive_min": 45,
+    "family_score": 8.4,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia da Zambujeira do Mar",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.522347,
+    "lon": -8.787035,
+    "directions": "Segue pela EN120 para norte até Zambujeira do Mar.",
+    "access": "Acesso fácil e direto a partir da aldeia.",
+    "facilities": "Estacionamento, WC, restaurante, praia acessível, nadador-salvador e Bandeira Azul.",
+    "notes": "Opção sólida a norte, boa para combinar praia com passeio na vila.",
+    "best_for": [
+      "dia completo",
+      "famílias",
+      "passeio na vila"
+    ],
+    "caution": "Em verão e fins de semana de eventos pode ter bastante afluência.",
+    "gmaps": "https://www.google.com/maps?q=37.522347,-8.787035",
+    "official_links": [
+      {
+        "label": "Turismo de Odemira",
+        "url": "https://turismo.cm-odemira.pt/o-que-fazer/pontos-de-interesse-a-visitar/praias/poi/praia-da-zambujeira-do-mar"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag",
+      "surf"
+    ],
+    "drive_min": 40,
+    "family_score": 8.6,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/zambujeira-do-mar/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia dos Alteirinhos",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.518482,
+    "lon": -8.788595,
+    "directions": "Segue para Zambujeira do Mar e depois para sul pela zona de acessos à arriba.",
+    "access": "Acesso por escadaria.",
+    "facilities": "Estacionamento, WC, vigilância na época balnear, Bandeira Azul e zona naturista.",
+    "notes": "Praia mais resguardada pela falésia, normalmente mais tranquila do que a principal da Zambujeira.",
+    "best_for": [
+      "mais sossego",
+      "recato",
+      "naturismo"
+    ],
+    "caution": "A escadaria e a arriba tornam-na menos prática com muita tralha.",
+    "gmaps": "https://www.google.com/maps?q=37.518482,-8.788595",
+    "official_links": [
+      {
+        "label": "Turismo de Odemira",
+        "url": "https://turismo.cm-odemira.pt/o-que-fazer/pontos-de-interesse-a-visitar/praias/poi/praia-dos-alteirinhos"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "lifeguard",
+      "blueflag",
+      "naturism",
+      "stairs"
+    ],
+    "drive_min": 40,
+    "family_score": 5.8,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia do Castelejo",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.10007,
+    "lon": -8.94702,
+    "directions": "Segue para Vila do Bispo e depois entra na estrada em direção às praias da costa oeste.",
+    "access": "Acesso relativamente simples por estrada até perto do areal; zona exposta e ventosa.",
+    "facilities": "Estacionamento, WC, apoio de praia/restaurante e vigilância na época balnear.",
+    "notes": "Uma das praias mais bonitas e dramáticas da costa oeste.",
+    "best_for": [
+      "paisagem bruta",
+      "surf",
+      "pôr do sol"
+    ],
+    "caution": "Mar mais exigente e vento frequente.",
+    "gmaps": "https://www.google.com/maps?q=37.100070,-8.947020",
+    "official_links": [
+      {
+        "label": "Município de Vila do Bispo (Castelejo)",
+        "url": "https://www.cm-viladobispo.pt/visitar/o-que-visitar/praias/castelejo"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag",
+      "surf"
+    ],
+    "drive_min": 40,
+    "family_score": 4.1,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia da Cordoama",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.10942,
+    "lon": -8.93782,
+    "directions": "Segue para Vila do Bispo e depois sai para a costa oeste, seguindo a sinalização para Cordoama.",
+    "access": "Acesso simples por estrada asfaltada até ao estacionamento; praia extensa e exposta.",
+    "facilities": "Estacionamento, WC, bar/restaurante e vigilância na época balnear.",
+    "notes": "Praia ampla e muito cénica, famosa pelo surf e pelos pores do sol.",
+    "best_for": [
+      "surf",
+      "caminhadas",
+      "pôr do sol"
+    ],
+    "caution": "Ondulação e correntes frequentes.",
+    "gmaps": "https://www.google.com/maps?q=37.109420,-8.937820",
+    "official_links": [
+      {
+        "label": "Município de Vila do Bispo",
+        "url": "https://www.cm-viladobispo.pt/visitar/o-que-visitar/praias"
+      },
+      {
+        "label": "Beachcam Cordoama",
+        "url": "https://beachcam.meo.pt/livecams/cordoama/"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag",
+      "surf"
+    ],
+    "drive_min": 40,
+    "family_score": 4.3,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/cordoama/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia do Tonel",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.007283,
+    "lon": -8.948023,
+    "directions": "Segue para Sagres e acompanha a indicação para a Fortaleza de Sagres.",
+    "access": "Acesso fácil a partir do topo, com rampa/escadas para o areal.",
+    "facilities": "Estacionamento, pequeno bar sazonal, WC e vigilância na época balnear.",
+    "notes": "Praia muito ligada ao surf, com localização impressionante junto à Fortaleza de Sagres.",
+    "best_for": [
+      "surf",
+      "pôr do sol",
+      "fotografia"
+    ],
+    "caution": "Mar frequentemente mexido e água fria.",
+    "gmaps": "https://www.google.com/maps?q=37.007283,-8.948023",
+    "official_links": [
+      {
+        "label": "Município de Vila do Bispo",
+        "url": "https://www.cm-viladobispo.pt/visitar/o-que-visitar/praias"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag",
+      "surf"
+    ],
+    "drive_min": 50,
+    "family_score": 3.9,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/sagres/",
+      "label": "Beachcam Sagres (próxima)"
+    }
+  },
+  {
+    "name": "Praia da Mareta",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.00505,
+    "lon": -8.93873,
+    "directions": "Segue para Sagres e entra na vila; a praia fica numa zona central.",
+    "access": "Acesso fácil e urbano, com descida simples ao areal.",
+    "facilities": "Estacionamento, WC, restaurantes, vigilância na época balnear e Bandeira Azul.",
+    "notes": "Praia central de Sagres e boa para famílias, por ser relativamente mais abrigada.",
+    "best_for": [
+      "famílias",
+      "banhos",
+      "Sagres sem stress"
+    ],
+    "caution": "Vento e água fria podem aparecer.",
+    "gmaps": "https://www.google.com/maps?q=37.005050,-8.938730",
+    "official_links": [
+      {
+        "label": "Município de Vila do Bispo",
+        "url": "https://www.cm-viladobispo.pt/visitar/o-que-visitar/praias"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "drive_min": 50,
+    "family_score": 8.4,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/sagres/",
+      "label": "Beachcam Sagres (próxima)"
+    }
+  },
+  {
+    "name": "Praia do Beliche",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.025932,
+    "lon": -8.965026,
+    "directions": "Segue pela N268 entre Sagres e Cabo de São Vicente; a praia fica sinalizada na estrada.",
+    "access": "Acesso por longa escadaria a partir do topo da falésia.",
+    "facilities": "Estacionamento no topo, vigilância na época balnear e apoios sazonais limitados.",
+    "notes": "Praia espetacular entre falésias, muito fotogénica.",
+    "best_for": [
+      "paisagem selvagem",
+      "surf",
+      "pôr do sol"
+    ],
+    "caution": "Escadaria longa e mar forte em vários dias.",
+    "gmaps": "https://www.google.com/maps?q=37.025932,-8.965026",
+    "official_links": [
+      {
+        "label": "Município de Vila do Bispo (Beliche)",
+        "url": "https://www.cm-viladobispo.pt/visitar/o-que-visitar/praias/beliche"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "stairs",
+      "surf"
+    ],
+    "drive_min": 50,
+    "family_score": 3.4,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/sagres/",
+      "label": "Beachcam Sagres (próxima)"
+    }
+  },
+  {
+    "name": "Praia do Zavial",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.046644,
+    "lon": -8.872562,
+    "directions": "Segue para a Raposeira e depois acompanha a sinalização para Zavial.",
+    "access": "Acesso relativamente simples por passadiço a partir do estacionamento.",
+    "facilities": "Estacionamento, WC, restaurante/bar, vigilância na época balnear e Bandeira Azul.",
+    "notes": "Praia tranquila a meio caminho entre Sagres e Salema, muito ligada ao surf.",
+    "best_for": [
+      "surf",
+      "menos confusão",
+      "paisagem"
+    ],
+    "caution": "Na maré alta o areal útil encolhe em zonas.",
+    "gmaps": "https://www.google.com/maps?q=37.046644,-8.872562",
+    "official_links": [
+      {
+        "label": "Município de Vila do Bispo",
+        "url": "https://www.cm-viladobispo.pt/visitar/o-que-visitar/praias"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag",
+      "surf",
+      "naturism"
+    ],
+    "drive_min": 45,
+    "family_score": 5.6,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia da Luz",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.0871,
+    "lon": -8.7277,
+    "directions": "Segue para Lagos e continua para a vila da Luz; o acesso final é muito direto e urbano.",
+    "access": "Acesso muito fácil, passeio marginal e praia prática para famílias.",
+    "facilities": "Estacionamento, WC, restaurantes, vigilância, praia acessível e Bandeira Azul.",
+    "notes": "Praia de vila muito cómoda, normalmente previsível para dias de família sem complicações.",
+    "best_for": [
+      "famílias",
+      "aldeia",
+      "dia fácil"
+    ],
+    "caution": "Em agosto e fins de semana a frente de praia enche bastante.",
+    "gmaps": "https://www.google.com/maps?q=37.0871,-8.7277",
+    "official_links": [
+      {
+        "label": "Lagos beaches",
+        "url": "https://www.lagosportugaltourism.com/beaches/"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "drive_min": 45,
+    "family_score": 8.7,
+    "family_note": "Muito prática para famílias, com logística fácil e ambiente de vila.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/praia-da-luz/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia de Porto de Mós",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.0869,
+    "lon": -8.69,
+    "directions": "Segue para Lagos e depois para Porto de Mós; a estrada termina junto ao areal.",
+    "access": "Acesso fácil com estacionamento perto da praia.",
+    "facilities": "Estacionamento, WC, restaurantes, vigilância e Bandeira Azul.",
+    "notes": "Praia ampla em Lagos, boa mistura de conforto e paisagem.",
+    "best_for": [
+      "famílias",
+      "restaurantes",
+      "areal amplo"
+    ],
+    "caution": "Pode ter mais vento e mar mexido do que praias muito encaixadas.",
+    "gmaps": "https://www.google.com/maps?q=37.0869,-8.69",
+    "official_links": [
+      {
+        "label": "Lagos beaches",
+        "url": "https://www.lagosportugaltourism.com/beaches/"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag",
+      "surf"
+    ],
+    "drive_min": 45,
+    "family_score": 8.0,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Meia Praia",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.1179,
+    "lon": -8.6508,
+    "directions": "Segue para Lagos e para a zona da Meia Praia; há vários acessos ao longo do areal.",
+    "access": "Acesso fácil, praia longa e plana, muito prática com crianças.",
+    "facilities": "Estacionamento, passadiços, vigilância, restaurantes, praia acessível e Bandeira Azul.",
+    "notes": "Grande areal de Lagos, excelente para quem quer espaço e logística simples.",
+    "best_for": [
+      "famílias",
+      "muito espaço",
+      "caminhadas"
+    ],
+    "caution": "Se o vento entrar, a sensação de conforto baixa rapidamente por ser muito aberta.",
+    "gmaps": "https://www.google.com/maps?q=37.1179,-8.6508",
+    "official_links": [
+      {
+        "label": "Lagos beaches",
+        "url": "https://www.lagosportugaltourism.com/beaches/"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "drive_min": 45,
+    "family_score": 8.8,
+    "family_note": "Forte em espaço e logística para crianças, desde que o vento ajude.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/meia-praia/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia Dona Ana",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.09,
+    "lon": -8.664,
+    "directions": "Segue para Lagos e desce pela zona costeira a sul do centro, seguindo indicações para Dona Ana.",
+    "access": "Acesso por escadaria; simples para uma visita curta, menos prático com muita tralha.",
+    "facilities": "Estacionamento, restaurante, vigilância na época balnear e apoio de praia.",
+    "notes": "Uma das praias mais bonitas do Algarve, excelente para uma visita cénica.",
+    "best_for": [
+      "paisagem",
+      "snorkeling",
+      "postal do Algarve"
+    ],
+    "caution": "Fica cheia na época alta e a escadaria pesa com crianças pequenas e material.",
+    "gmaps": "https://www.google.com/maps?q=37.09,-8.664",
+    "official_links": [
+      {
+        "label": "Praia Dona Ana guide",
+        "url": "https://www.lagosportugalguide.com/lagos-algarve/Praia-Dona-Ana-lagos.html"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "stairs"
+    ],
+    "drive_min": 45,
+    "family_score": 5.4,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia do Camilo",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.0875,
+    "lon": -8.669,
+    "directions": "Segue para Lagos e continua para a Ponta da Piedade / Camilo.",
+    "access": "Acesso por longa escadaria de madeira.",
+    "facilities": "Estacionamento, restaurante nas imediações e vigilância na época balnear.",
+    "notes": "Muito bonita e ótima para ver as falésias clássicas de Lagos.",
+    "best_for": [
+      "vista incrível",
+      "snorkeling",
+      "paragem curta"
+    ],
+    "caution": "Escadaria longa e muita gente no verão; menos prática para um dia longo de família.",
+    "gmaps": "https://www.google.com/maps?q=37.0875,-8.669",
+    "official_links": [
+      {
+        "label": "Lagos beaches",
+        "url": "https://www.lagosportugaltourism.com/beaches/"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "stairs"
+    ],
+    "drive_min": 45,
+    "family_score": 4.9,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia da Rocha",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.1183,
+    "lon": -8.5375,
+    "directions": "Segue para Portimão / Praia da Rocha; o acesso é urbano e muito simples.",
+    "access": "Acesso muito fácil por passadiços e entradas urbanas.",
+    "facilities": "Estacionamento, WC, restaurantes, vigilância, praia acessível e Bandeira Azul.",
+    "notes": "Praia urbana grande, cheia de serviços e boa para um dia sem complicações.",
+    "best_for": [
+      "serviços",
+      "famílias",
+      "dia sem stress"
+    ],
+    "caution": "Mais urbana e concorrida; se queres natureza pura não é a melhor escolha.",
+    "gmaps": "https://www.google.com/maps?q=37.1183,-8.5375",
+    "official_links": [
+      {
+        "label": "VisitPortugal - Praia da Rocha",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-da-rocha"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "drive_min": 50,
+    "family_score": 7.9,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/praia-da-rocha/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia do Vau",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.1224,
+    "lon": -8.5523,
+    "directions": "Segue para Portimão e depois para a zona do Vau.",
+    "access": "Acesso relativamente fácil e praia prática para famílias.",
+    "facilities": "Estacionamento, WC, restaurantes, vigilância e Bandeira Azul.",
+    "notes": "Boa praia intermédia entre natureza e serviços, mais suave do que a Rocha.",
+    "best_for": [
+      "famílias",
+      "serviços",
+      "meio-termo"
+    ],
+    "caution": "Na época alta os acessos e o estacionamento podem apertar.",
+    "gmaps": "https://www.google.com/maps?q=37.1224,-8.5523",
+    "official_links": [
+      {
+        "label": "VisitPortugal - Praia do Vau",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-do-vau"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "drive_min": 50,
+    "family_score": 8.3,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia dos Três Irmãos",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.1137,
+    "lon": -8.5376,
+    "directions": "Segue para Alvor e acompanha as indicações para Três Irmãos.",
+    "access": "Acesso relativamente simples; boa infraestrutura na zona.",
+    "facilities": "Estacionamento, WC, restaurantes, vigilância, acessível e Bandeira Azul.",
+    "notes": "Praia muito bonita em Alvor, com rochas, túneis e zonas boas para explorar.",
+    "best_for": [
+      "famílias",
+      "explorar rochas",
+      "fotos"
+    ],
+    "caution": "A parte mais cénica pode ficar cheia; convém chegar cedo.",
+    "gmaps": "https://www.google.com/maps?q=37.1137,-8.5376",
+    "official_links": [
+      {
+        "label": "VisitPortugal - Três Irmãos",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-dos-tres-irmaos"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "drive_min": 50,
+    "family_score": 8.5,
+    "family_note": "Muito interessante para famílias que gostam de explorar rochas.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/alvor/",
+      "label": "Beachcam Alvor"
+    }
+  },
+  {
+    "name": "Praia da Galé",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.0895,
+    "lon": -8.3165,
+    "directions": "Segue para Albufeira e depois para oeste, zona da Galé.",
+    "access": "Acesso fácil por passadiços e parques próximos.",
+    "facilities": "Estacionamento, WC, restaurantes, vigilância, acessível e Bandeira Azul.",
+    "notes": "Praia grande e muito boa para famílias, com mistura de rocha e areal aberto.",
+    "best_for": [
+      "famílias",
+      "areal grande",
+      "walks"
+    ],
+    "caution": "Distância maior; ideal para dia completo.",
+    "gmaps": "https://www.google.com/maps?q=37.0895,-8.3165",
+    "official_links": [
+      {
+        "label": "Visit Albufeira - Galé Oeste",
+        "url": "https://visitalbufeira.pt/praia/praia-da-gale-oeste"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "drive_min": 65,
+    "family_score": 8.6,
+    "family_note": "Praia family-friendly muito consistente para dia inteiro.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/gale/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia dos Salgados",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.0908,
+    "lon": -8.3228,
+    "directions": "Segue para a zona dos Salgados / Galé em Albufeira.",
+    "access": "Acesso fácil, passadiços e entrada plana.",
+    "facilities": "Estacionamento, WC, restaurante, vigilância, acessível e Bandeira Azul.",
+    "notes": "Praia ótima para famílias e caminhadas longas, com envolvente natural bonita.",
+    "best_for": [
+      "famílias",
+      "passadiços",
+      "natureza"
+    ],
+    "caution": "Mais longe; tende a compensar mais como passeio de dia inteiro.",
+    "gmaps": "https://www.google.com/maps?q=37.0908,-8.3228",
+    "official_links": [
+      {
+        "label": "Visit Albufeira - Salgados",
+        "url": "https://visitalbufeira.pt/praia/praia-dos-salgados"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "drive_min": 65,
+    "family_score": 8.7,
+    "family_note": "Muito boa para famílias e caminhadas, com acessos fáceis.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/salgados/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia de São Rafael",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.0787,
+    "lon": -8.2785,
+    "directions": "Segue para Albufeira e depois para São Rafael / Sesmarias.",
+    "access": "Acesso fácil para um cenário muito bonito.",
+    "facilities": "Estacionamento, restaurante, vigilância, WC e Bandeira Azul.",
+    "notes": "Boa praia para juntar rochas bonitas com algum conforto.",
+    "best_for": [
+      "paisagem",
+      "famílias",
+      "snorkeling"
+    ],
+    "caution": "Na época alta pode ficar bastante disputada.",
+    "gmaps": "https://www.google.com/maps?q=37.0787,-8.2785",
+    "official_links": [
+      {
+        "label": "Albufeira beaches",
+        "url": "https://algarveofficial.com/visit/albufeira/beaches"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "drive_min": 70,
+    "family_score": 8.1,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/sao-rafael/",
+      "label": "Beachcam"
+    }
+  },
+  {
+    "name": "Praia do Almograve",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.6528,
+    "lon": -8.7926,
+    "directions": "Segue para norte pela EN120 até Almograve e depois até à praia.",
+    "access": "Acesso fácil por estrada e passadiço; ambiente natural.",
+    "facilities": "Estacionamento, WC, vigilância na época e apoio sazonal.",
+    "notes": "Boa praia para quem quer natureza séria, falésia e menos urbanização.",
+    "best_for": [
+      "natureza",
+      "menos confusão",
+      "caminhadas"
+    ],
+    "caution": "Mais distante e mais exposta ao vento; confirma sempre o dia antes de ir.",
+    "gmaps": "https://www.google.com/maps?q=37.6528,-8.7926",
+    "official_links": [
+      {
+        "label": "Turismo de Odemira",
+        "url": "https://turismo.cm-odemira.pt/"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "lifeguard",
+      "blueflag",
+      "surf"
+    ],
+    "drive_min": 50,
+    "family_score": 6.1,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia do Malhão",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.7211,
+    "lon": -8.8076,
+    "directions": "Segue para Vila Nova de Milfontes / Malhão; o acesso final é o habitual da praia.",
+    "access": "Acesso possível, mas menos polido do que praias urbanas.",
+    "facilities": "Ambiente muito natural e poucos serviços fixos na areia.",
+    "notes": "Uma das grandes praias wild da costa alentejana, ótima para espaço e paisagem.",
+    "best_for": [
+      "muito espaço",
+      "natureza",
+      "walks"
+    ],
+    "caution": "Leva menos serviços e pode ser longa para um bate-volta com crianças pequenas.",
+    "gmaps": "https://www.google.com/maps?q=37.7211,-8.8076",
+    "official_links": [
+      {
+        "label": "Turismo Odemira - Praias",
+        "url": "https://turismo.cm-odemira.pt/pages/812"
+      }
+    ],
+    "features": [
+      "parking",
+      "surf",
+      "trail"
+    ],
+    "drive_min": 60,
+    "family_score": 5.0,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia do Farol",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.7301,
+    "lon": -8.7813,
+    "directions": "Segue para Vila Nova de Milfontes; a praia fica na zona da foz do Mira.",
+    "access": "Acesso fácil e muito prático.",
+    "facilities": "Estacionamento, parque de campismo, WC, restaurante, vigilância sazonal, Bandeira Azul.",
+    "notes": "Praia conhecida pela fraca ondulação e fácil acesso, muito forte para famílias.",
+    "best_for": [
+      "famílias",
+      "vila",
+      "mar mais manso"
+    ],
+    "caution": "Em dias de maior procura a zona central junto ao farol pode ficar bastante cheia.",
+    "gmaps": "https://www.google.com/maps?q=37.7301,-8.7813",
+    "official_links": [
+      {
+        "label": "Turismo Odemira - Praia do Farol",
+        "url": "https://turismo.cm-odemira.pt/pages/822?poi_id=525"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "drive_min": 60,
+    "family_score": 5.0,
+    "family_note": "Boa para crianças, com ondulação mais mansa e acesso fácil.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/milfontes-farol/",
+      "label": "Beachcam Milfontes Farol"
+    }
+  },
+  {
+    "name": "Praia da Franquia",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.7237,
+    "lon": -8.7839,
+    "directions": "Segue para Vila Nova de Milfontes; a praia fica muito perto da vila e do estuário do Mira.",
+    "access": "Acesso muito fácil, boa para crianças pequenas em dias certos.",
+    "facilities": "Estacionamento, restaurantes próximos, vigilância na época e praia muito prática pela vila.",
+    "notes": "Boa opção familiar em Milfontes pela proximidade à vila e contexto de estuário.",
+    "best_for": [
+      "famílias",
+      "vila",
+      "crianças"
+    ],
+    "caution": "Não é a praia mais dramática em paisagem; vale mais pela praticidade.",
+    "gmaps": "https://www.google.com/maps?q=37.7237,-8.7839",
+    "official_links": [
+      {
+        "label": "Turismo Odemira - Praias",
+        "url": "https://turismo.cm-odemira.pt/pages/812"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard"
+    ],
+    "drive_min": 60,
+    "family_score": 8.5,
+    "family_note": "Muito prática para crianças pelo contexto de vila/estuário."
+  },
+  {
+    "name": "Praia das Furnas",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.7164,
+    "lon": -8.7818,
+    "directions": "Segue para Vila Nova de Milfontes e usa o acesso rodoviário indicado para Furnas.",
+    "access": "Acesso relativamente fácil, mas já num esquema de passeio mais longo.",
+    "facilities": "Estacionamento, WC, restaurante, acessível, surf e vigilância na época.",
+    "notes": "Praia muito interessante para combinar com Milfontes, com bom enquadramento e serviços suficientes.",
+    "best_for": [
+      "passeio completo",
+      "natureza",
+      "Milfontes"
+    ],
+    "caution": "Melhor para dia inteiro do que visita curta.",
+    "gmaps": "https://www.google.com/maps?q=37.7164,-8.7818",
+    "official_links": [
+      {
+        "label": "Turismo Odemira - Praia das Furnas Mar",
+        "url": "https://turismo.cm-odemira.pt/o-que-fazer/pontos-de-interesse-a-visitar/praias/poi/praia-das-furnas-mar"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag",
+      "surf"
+    ],
+    "drive_min": 55,
+    "family_score": 6.4,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/furnas/",
+      "label": "Beachcam Furnas"
+    }
+  },
+  {
+    "name": "Praia do Carvalhal (Odemira)",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.5428,
+    "lon": -8.7981,
+    "directions": "Segue para Zambujeira do Mar e depois continua para a zona do Carvalhal.",
+    "access": "Acesso razoável por estrada local; ambiente mais natural do que urbano.",
+    "facilities": "Estacionamento e algum apoio sazonal.",
+    "notes": "Boa praia para quem quer uma alternativa menos óbvia entre Zambujeira e Milfontes.",
+    "best_for": [
+      "menos óbvia",
+      "natureza",
+      "mais espaço"
+    ],
+    "caution": "Confirmar sempre o estado do acesso e do mar no dia.",
+    "gmaps": "https://www.google.com/maps?q=37.5428,-8.7981",
+    "official_links": [
+      {
+        "label": "Turismo Odemira - Época balnear",
+        "url": "https://turismo.cm-odemira.pt/o-concelho/a-seguranca-e-a-sua-praia-epoca-balnear"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "surf"
+    ],
+    "drive_min": 40,
+    "family_score": 5.0,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia dos Aivados",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 37.765,
+    "lon": -8.8175,
+    "directions": "Segue para norte, passando Milfontes e Porto Covo, até à zona dos Aivados.",
+    "access": "Acesso simples mas sem o conforto de uma praia urbana.",
+    "facilities": "Parque de estacionamento; praia muito orientada para natureza e surf.",
+    "notes": "Areal extenso e beleza selvagem; uma das escolhas mais brutas acima de Odeceixe.",
+    "best_for": [
+      "wild",
+      "surf",
+      "muito espaço"
+    ],
+    "caution": "Mar de ondulação forte e poucos serviços.",
+    "gmaps": "https://www.google.com/maps?q=37.765,-8.8175",
+    "official_links": [
+      {
+        "label": "VisitPortugal - Praia dos Aivados",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-dos-aivados"
+      }
+    ],
+    "features": [
+      "parking",
+      "surf",
+      "trail"
+    ],
+    "drive_min": 60,
+    "family_score": 3.8,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia da Ilha do Pessegueiro",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.8405,
+    "lon": -8.7975,
+    "directions": "Segue para Porto Covo e depois para a zona da Ilha do Pessegueiro.",
+    "access": "Acesso simples, com praia fácil de interpretar e bonita para um passeio de dia inteiro.",
+    "facilities": "Parque de estacionamento, bar/restaurante, vigilância sazonal e Bandeira Azul.",
+    "notes": "Muito interessante pela vista para a ilha e pelo cenário histórico/natural.",
+    "best_for": [
+      "paisagem",
+      "Porto Covo",
+      "dia completo"
+    ],
+    "caution": "Já é uma deslocação mais longa; vale mais quando queres um dia único nesta zona.",
+    "gmaps": "https://www.google.com/maps?q=37.8405,-8.7975",
+    "official_links": [
+      {
+        "label": "VisitPortugal - Ilha do Pessegueiro",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-da-ilha-do-pessegueiro"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "drive_min": 70,
+    "family_score": 5.0,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia Grande de Porto Covo",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.8518,
+    "lon": -8.7916,
+    "directions": "Segue para Porto Covo e depois para a Praia Grande.",
+    "access": "Acesso simples, praia muito prática para combinar com a aldeia.",
+    "facilities": "Estacionamento, bares/restaurantes, vigilância e bons acessos.",
+    "notes": "Boa praia para juntar passeio por Porto Covo com banhos e almoço.",
+    "best_for": [
+      "aldeia",
+      "dia completo",
+      "famílias"
+    ],
+    "caution": "Já está no limite do bate-volta confortável; faz mais sentido com programa único.",
+    "gmaps": "https://www.google.com/maps?q=37.8518,-8.7916",
+    "official_links": [
+      {
+        "label": "VisitPortugal - Praia Grande Porto Covo",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-grande-de-porto-covo"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "drive_min": 70,
+    "family_score": 7.4,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher."
+  },
+  {
+    "name": "Praia de São Torpes",
+    "category": "Acesso fácil + facilidades",
+    "lat": 37.89,
+    "lon": -8.811,
+    "directions": "Segue para a zona de Sines / São Torpes pela costa alentejana.",
+    "access": "Acesso fácil por estrada e estacionamento relativamente simples.",
+    "facilities": "Estacionamento, apoio sazonal, vigilância e bons acessos.",
+    "notes": "Praia conhecida por água um pouco mais simpática e bom areal para um dia longo.",
+    "best_for": [
+      "água menos fria",
+      "dia único",
+      "areal"
+    ],
+    "caution": "Distância grande a partir de Vale da Telha; escolhe em dia com vontade de fazer quilómetros.",
+    "gmaps": "https://www.google.com/maps?q=37.89,-8.811",
+    "official_links": [
+      {
+        "label": "VisitPortugal - São Torpes",
+        "url": "https://www.visitportugal.com/pt-pt/content/praia-de-s%C3%A3o-torpes"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "restaurant",
+      "blueflag",
+      "surf"
+    ],
+    "drive_min": 75,
+    "family_score": 7.6,
+    "family_note": "Vê acessos, serviços e mar do dia para escolher.",
+    "livecam": {
+      "url": "https://beachcam.meo.pt/livecams/sao-torpes/",
+      "label": "Beachcam São Torpes"
+    }
+  }
+]
