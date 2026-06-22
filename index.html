@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#0f4c81">
-  <meta name="description" content="Guia inteligente de praias com briefing, análise temporal e previsão de 3 dias.">
-  <title>Praias Férias 2026 — V4</title>
+  <meta name="description" content="Escolhe a melhor praia para cada dia com ajuda do vento, temperatura, água e distância.">
+  <title>Praias Férias 2026</title>
   <link rel="icon" type="image/png" href="logo_site.png">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -19,6 +19,7 @@
     .wrap{max-width:1740px;margin:0 auto;padding:14px}.section{margin-top:16px}.panel{background:var(--card);backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.72);border-radius:26px;box-shadow:var(--shadow)}
     .hero{background:linear-gradient(135deg,#0f4c81 0%,#1d4ed8 55%,#0ea5e9 100%);color:#fff;padding:18px;position:relative;overflow:hidden}.hero:before,.hero:after{content:'';position:absolute;border-radius:999px;background:rgba(255,255,255,.10)}.hero:before{width:220px;height:220px;right:-20px;top:-50px}.hero:after{width:280px;height:280px;right:110px;bottom:-190px}
     .hero-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:14px;align-items:start;position:relative;z-index:1}.hero-left{display:grid;gap:12px}.hero-title{display:flex;gap:14px;align-items:flex-start}.hero-logo{width:min(250px,28vw);height:auto;display:block;filter:drop-shadow(0 10px 18px rgba(0,0,0,.10))}.hero-text h1{margin:0;font-size:clamp(32px,4vw,56px);line-height:1.02;letter-spacing:-.05em}.sub{font-size:12px;opacity:.95}.hero-actions{display:flex;gap:8px;flex-wrap:wrap}.hero-btn{border:1px solid rgba(255,255,255,.28);background:rgba(255,255,255,.14);color:#fff;border-radius:999px;padding:9px 12px;font-size:12px;font-weight:800;cursor:pointer}
+    .status-note:empty{display:none}.status-note{margin-top:4px;opacity:.95}.hero-actions{margin-top:6px}.hero-text h1{max-width:11ch}.brief-link,.inline-beach-link{color:var(--blue2);font-weight:800;text-decoration:none;border-bottom:1px dashed rgba(15,76,129,.28)}.brief-link:hover,.inline-beach-link:hover{text-decoration:none;border-bottom-color:rgba(15,76,129,.7)}.brief-line a{display:inline-flex;align-items:center;gap:4px}.panel h2{letter-spacing:-.03em}
     .stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.stat{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.22);backdrop-filter:blur(10px);border-radius:20px;padding:14px}.stat .k{font-size:12px;opacity:.88;margin-bottom:6px}.stat .v{font-size:28px;font-weight:800;letter-spacing:-.04em}
     .status-pill{display:inline-flex;align-items:center;gap:8px;border-radius:999px;padding:8px 12px;font-size:12px;font-weight:800}.ok{background:#ccfbf1;color:#0f766e}.warn{background:#fef3c7;color:#b45309}.bad{background:#fee2e2;color:#991b1b}
     .grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.grid4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
@@ -45,13 +46,13 @@
         <div class="hero-title">
           <img src="logo_site.png" alt="Logo Aljezur Beach Wonder Team" class="hero-logo">
           <div class="hero-text">
-            <h1>Praias Férias 2026 — V4</h1>
-            <div class="sub">Motor de decisão com briefing, comparação temporal e previsão de 3 dias.</div>
+            <h1>Praias Férias 2026</h1>
+            <div class="sub">Escolhe a melhor praia para hoje, amanhã e depois, com ajuda do vento, água, distância e facilidades.</div>
             <div class="sub" id="lastUpdateText">Último update: a carregar…</div>
-            <div class="sub" id="reloadStatusText">Recarregar dados = reler ficheiros publicados.</div>
+            <div class="sub status-note" id="reloadStatusText"></div>
             <div class="hero-actions">
               <button class="hero-btn" id="refreshLocalBtn" type="button">🔄 Recarregar dados</button>
-              <button class="hero-btn" id="installAppBtn" type="button">📲 Instalar app</button>
+              <button class="hero-btn" id="installAppBtn" type="button" style="display:none">📲 Instalar app</button>
               <button class="hero-btn" id="exportSummaryBtn" type="button">📝 Exportar resumo</button>
               <span id="freshnessPill" class="status-pill warn">⏳ a validar dados</span>
             </div>
@@ -71,7 +72,7 @@
 
   <section class="section grid2" id="briefingSection">
     <section class="panel" style="padding:16px"><div class="detail-top"><div><h2>Briefing do dia</h2><div class="subline"><span>Resumo automático para decisão rápida.</span></div></div></div><div id="briefingWrap"></div></section>
-    <section class="panel" style="padding:16px"><div class="detail-top"><div><h2>Saúde da automação</h2><div class="subline"><span>Confiança dos dados e histórico operacional.</span></div></div></div><div id="healthWrap"></div></section>
+    <section class="panel" style="padding:16px"><div class="detail-top"><div><h2>Estado dos dados</h2><div class="subline"><span>Última atualização, cobertura e fiabilidade dos dados.</span></div></div></div><div id="healthWrap"></div></section>
   </section>
 
   <section class="section panel" style="padding:16px">
@@ -110,7 +111,7 @@
       <section class="panel" id="mapSection"><div class="toolbar"><div class="legend"><span><i class="dot" style="background:#0f766e"></i> Acesso fácil</span><span><i class="dot" style="background:#c2410c"></i> Mais selvagem</span><span><i class="dot" style="background:#1d4ed8"></i> Selecionada</span></div><div class="count">Base: Vale da Telha, Aljezur</div></div><div id="map"></div></section>
       <section class="panel detail" id="detailSection"><div id="detail"></div></section>
       <section class="panel" style="padding:16px"><div class="detail-top"><div><h2>Comparador</h2><div class="subline"><span>Até 3 praias com conclusão automática.</span></div></div><div class="cta"><button class="btn secondary" id="clearCompareBtn" type="button">Limpar comparador</button></div></div><div id="compareWrap"></div></section>
-      <section class="panel" style="padding:16px"><div class="detail-top"><div><h2>Histórico de updates</h2><div class="subline"><span>Snapshots operacionais recentes.</span></div></div></div><div id="historyWrap"></div></section>
+      <section class="panel" style="padding:16px"><div class="detail-top"><div><h2>Histórico dos dados</h2><div class="subline"><span>Atualizações recentes dos dados publicados.</span></div></div></div><div id="historyWrap"></div></section>
     </div>
   </section>
 </div>
