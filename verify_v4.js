@@ -255,7 +255,9 @@ function renderBriefing(){
   const bestFamily=[...beaches].sort((a,b)=>scoreBeach(b,'family',activeDay)-scoreBeach(a,'family',activeDay))[0];
   const bestEasy=[...beaches].sort((a,b)=>scoreBeach(b,'easy',activeDay)-scoreBeach(a,'easy',activeDay))[0];
   const lowWind=[...beaches].sort((a,b)=>(windForBeach(a,activeDay)??999)-(windForBeach(b,activeDay)??999))[0];
-  holder.innerHTML = `<div class="grid2"><div class="briefing-card"><div class="brief-title">Resumo principal — ${formatDayLabel(activeDay)}</div><div class="brief-line"><strong>Melhor geral:</strong> ${best?best.name:'—'} ${best?`(${decisionForBeach(best,activeDay).label})`:''}</div><div class="brief-line"><strong>Melhor para família:</strong> ${bestFamily?bestFamily.name:'—'}</div><div class="brief-line"><strong>Opção mais simples:</strong> ${bestEasy?bestEasy.name:'—'}</div><div class="brief-line"><strong>Plano B com menos vento:</strong> ${lowWind?lowWind.name:'—'}</div><div class="brief-line"><strong>Modo ativo:</strong> ${activeMode}</div></div><div class="briefing-card"><div class="brief-title">Decisão rápida</div>${briefTop.map((b,i)=>`<div class="brief-line"><strong>#${i+1} ${b.name}</strong> — ${decisionForBeach(b,activeDay).label} — ${explainScore(b,activeDay)}</div>`).join('') || '<div class="brief-line">Sem dados.</div>'}</div></div>`;
+  const beachLink = (b) => b ? `<a href="#${encodeURIComponent(b.name)}" class="brief-link" data-open-beach="${b.name}">${b.name}</a>` : '—';
+  holder.innerHTML = `<div class="grid2"><div class="briefing-card"><div class="brief-title">Resumo principal — ${formatDayLabel(activeDay)}</div><div class="brief-line"><strong>Melhor geral:</strong> ${beachLink(best)} ${best?`(${decisionForBeach(best,activeDay).label})`:''}</div><div class="brief-line"><strong>Melhor para família:</strong> ${beachLink(bestFamily)}</div><div class="brief-line"><strong>Opção mais simples:</strong> ${beachLink(bestEasy)}</div><div class="brief-line"><strong>Plano B com menos vento:</strong> ${beachLink(lowWind)}</div><div class="brief-line"><strong>Modo ativo:</strong> ${activeMode}</div></div><div class="briefing-card"><div class="brief-title">Decisão rápida</div>${briefTop.map((b,i)=>`<div class="brief-line"><a href="#${encodeURIComponent(b.name)}" class="inline-beach-link" data-open-beach="${b.name}"><strong>#${i+1} ${b.name}</strong></a> — ${decisionForBeach(b,activeDay).label} — ${explainScore(b,activeDay)}</div>`).join('') || '<div class="brief-line">Sem dados.</div>'}</div></div>`;
+  bindOpenBeachLinks(holder);
 }
 function renderHealth(){
   const holder=$('healthWrap');
@@ -267,10 +269,24 @@ function renderTemporal(){
   const holder=$('temporalWrap');
   holder.innerHTML = [0,1,2].map(offset => {
     const top=topThreeBeachesForOffset(offset);
-    return `<div class="temporal-col"><h3>${formatDayLabel(offset)}</h3>${top.map((b,i)=>`<div class="temporal-item"><strong>#${i+1} ${b.name}</strong><div class="brief-line">${decisionForBeach(b,offset).label} · ${explainScore(b,offset)}</div></div>`).join('') || '<div class="temporal-item">Sem dados.</div>'}</div>`;
+    return `<div class="temporal-col"><h3>${formatDayLabel(offset)}</h3>${top.map((b,i)=>`<div class="temporal-item"><a href="#${encodeURIComponent(b.name)}" class="inline-beach-link" data-open-beach="${b.name}"><strong>#${i+1} ${b.name}</strong></a><div class="brief-line">${decisionForBeach(b,offset).label} · ${explainScore(b,offset)}</div></div>`).join('') || '<div class="temporal-item">Sem dados.</div>'}</div>`;
   }).join('');
+  bindOpenBeachLinks(holder);
 }
 
+function bindOpenBeachLinks(root=document){
+  root.querySelectorAll('[data-open-beach]').forEach(el=>{
+    el.addEventListener('click', ev=>{
+      ev.preventDefault();
+      const name = el.dataset.openBeach;
+      if(!name) return;
+      selectBeach(name,true);
+      const detailSection = document.getElementById('detailSection');
+      if(window.innerWidth<=820) showMobileSection('detailSection');
+      else if(detailSection) detailSection.scrollIntoView({behavior:'smooth', block:'start'});
+    });
+  });
+}
 
 function buildPopupHtml(b){
   const dec=decisionForBeach(b,activeDay);
