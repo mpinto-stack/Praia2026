@@ -202,7 +202,36 @@ function explainScore(b, dayOffset=activeDay){
   const parts = topReasons(b, activeMode, dayOffset);
   return parts.length ? parts.join(' · ') : 'bom equilíbrio geral';
 }
-function topThreeBeachesForOffset(offset){ return [...beaches].sort((a,b)=>scoreBeach(b,activeMode,offset)-scoreBeach(a,activeMode,offset)).slice(0,3); }
+
+function driveScoreTop3Bucket(driveMin){
+  const d = Number(driveMin);
+  if(!Number.isFinite(d)) return 0;
+  if(d <= 30) return 10;
+  if(d <= 60) return 5;
+  return 0;
+}
+
+function scoreBeachTop3(b, mode=activeMode, dayOffset=activeDay){
+  const family=(b.family_score||5)/10*30;
+  const air=airTempForBeach(b,dayOffset), water=waterAvgForBeach(b,dayOffset), wind=windForBeach(b,dayOffset), wave=waveAvgForBeach(b,dayOffset);
+  const airScore=air==null?10:clamp(1-Math.abs(air-24)/10,0,1)*20;
+  const waterScore=water==null?8:clamp((water-15)/8,0,1)*20;
+  const windScore=wind==null?8:clamp(1-wind/35,0,1)*20;
+  const waveScore=wave==null?6:clamp(1-Math.abs(wave-0.9)/1.2,0,1)*10;
+  const easyBonus=b.category==='Acesso fácil + facilidades'?3:0;
+  const webcamBonus=b.livecam?2:0;
+  const driveBucket=driveScoreTop3Bucket(b.drive_min);
+  let total=family+airScore+waterScore+windScore+waveScore+easyBonus+webcamBonus+driveBucket;
+  if(mode==='family') total += family*0.45 + easyBonus*4 + ((b.features||[]).includes('accessible')?4:0) + ((b.features||[]).includes('wc')?3:0);
+  if(mode==='easy') total += easyBonus*8 + ((b.features||[]).includes('parking')?4:0) + ((b.features||[]).includes('restaurant')?4:0) + driveBucket*1.6;
+  if(mode==='quiet') total += (b.category==='Mais selvagem / mais sossegada'?16:0) + ((b.drive_min||0)>35?2:0) - ((b.features||[]).includes('blueflag')?1:0);
+  if(mode==='near') total += driveBucket*2.2 + clamp(60-(b.drive_min||120),0,60)*0.25;
+  if(mode==='surf') total += ((b.features||[]).includes('surf')?14:0) + (wave??0.9)*4;
+  return total;
+}
+
+
+function topThreeBeachesForOffset(offset){ return [...beaches].sort((a,b)=>scoreBeachTop3(b,activeMode,offset)-scoreBeachTop3(a,activeMode,offset)).slice(0,3); }
 function getBestWindow(b){ const scores=[0,1,2].map(d=>({d,score:scoreBeach(b,activeMode,d)})); scores.sort((a,b)=>b.score-a.score); return scores[0]; }
 function bestAlternatives(name){
   const b = beachByName(name); if(!b) return [];
@@ -226,9 +255,7 @@ function renderBriefing(){
   const bestFamily=[...beaches].sort((a,b)=>scoreBeach(b,'family',activeDay)-scoreBeach(a,'family',activeDay))[0];
   const bestEasy=[...beaches].sort((a,b)=>scoreBeach(b,'easy',activeDay)-scoreBeach(a,'easy',activeDay))[0];
   const lowWind=[...beaches].sort((a,b)=>(windForBeach(a,activeDay)??999)-(windForBeach(b,activeDay)??999))[0];
-  const beachLink = (b, prefix='') => b ? `<a href="#${encodeURIComponent(b.name)}" class="brief-link" data-open-beach="${b.name}">${prefix}${b.name}</a>` : '—';
-  holder.innerHTML = `<div class="grid2"><div class="briefing-card"><div class="brief-title">Resumo principal — ${formatDayLabel(activeDay)}</div><div class="brief-line"><strong>Melhor geral:</strong> ${beachLink(best)} ${best?`(${decisionForBeach(best,activeDay).label})`:''}</div><div class="brief-line"><strong>Melhor para família:</strong> ${beachLink(bestFamily)}</div><div class="brief-line"><strong>Opção mais simples:</strong> ${beachLink(bestEasy)}</div><div class="brief-line"><strong>Plano B com menos vento:</strong> ${beachLink(lowWind)}</div><div class="brief-line"><strong>Modo ativo:</strong> ${activeMode}</div></div><div class="briefing-card"><div class="brief-title">Top 3 rápido</div>${briefTop.map((b,i)=>`<div class="brief-line"><a href="#${encodeURIComponent(b.name)}" class="inline-beach-link" data-open-beach="${b.name}"><strong>#${i+1} ${b.name}</strong></a> — ${decisionForBeach(b,activeDay).label} — ${explainScore(b,activeDay)}</div>`).join('') || '<div class="brief-line">Sem dados.</div>'}</div></div>`;
-  bindOpenBeachLinks(holder);
+  holder.innerHTML = `<div class="grid2"><div class="briefing-card"><div class="brief-title">Resumo principal — ${formatDayLabel(activeDay)}</div><div class="brief-line"><strong>Melhor geral:</strong> ${best?best.name:'—'} ${best?`(${decisionForBeach(best,activeDay).label})`:''}</div><div class="brief-line"><strong>Melhor para família:</strong> ${bestFamily?bestFamily.name:'—'}</div><div class="brief-line"><strong>Opção mais simples:</strong> ${bestEasy?bestEasy.name:'—'}</div><div class="brief-line"><strong>Plano B com menos vento:</strong> ${lowWind?lowWind.name:'—'}</div><div class="brief-line"><strong>Modo ativo:</strong> ${activeMode}</div></div><div class="briefing-card"><div class="brief-title">Decisão rápida</div>${briefTop.map((b,i)=>`<div class="brief-line"><strong>#${i+1} ${b.name}</strong> — ${decisionForBeach(b,activeDay).label} — ${explainScore(b,activeDay)}</div>`).join('') || '<div class="brief-line">Sem dados.</div>'}</div></div>`;
 }
 function renderHealth(){
   const holder=$('healthWrap');
@@ -244,20 +271,6 @@ function renderTemporal(){
   }).join('');
 }
 
-
-function bindOpenBeachLinks(root=document){
-  root.querySelectorAll('[data-open-beach]').forEach(el=>{
-    el.addEventListener('click', ev=>{
-      ev.preventDefault();
-      const name = el.dataset.openBeach;
-      if(!name) return;
-      selectBeach(name,true);
-      const detailSection = document.getElementById('detailSection');
-      if(window.innerWidth<=820) showMobileSection('detailSection');
-      else if(detailSection) detailSection.scrollIntoView({behavior:'smooth', block:'start'});
-    });
-  });
-}
 
 function buildPopupHtml(b){
   const dec=decisionForBeach(b,activeDay);
@@ -351,10 +364,7 @@ function renderWeatherPanel(name){
   const b=beachByName(name), holder=$('weatherDataWrap'); if(!b||!holder) return;
   const w=weatherByName(name)||{};
   const freshness=datasets.meta&&datasets.meta.generated_at_local?formatLocal(datasets.meta.generated_at_local):'sem update';
-  const freshState = computeFreshness();
-  const weatherPillClass = freshState.level==='ok'?'ok':freshState.level==='warn'?'warn':'bad';
-  const weatherPillIcon = freshState.level==='ok'?'🟢':freshState.level==='warn'?'🟡':'🔴';
-  holder.innerHTML=`<div class="live-panel"><div class="live-head"><div><div class="st">Tempo snapshot</div><div class="count">Último update: ${freshness}</div></div><span class="status-pill ${weatherPillClass}">${weatherPillIcon}</span></div><div class="live-grid"><div class="live-card"><div class="live-label">Ar</div><div class="live-value">${Number.isFinite(Number(w.temperature_2m))?Number(w.temperature_2m).toFixed(0):'—'}°C</div><div class="live-sub">${weatherCodeText(w.weather_code)}</div></div><div class="live-card"><div class="live-label">Vento</div><div class="live-value">${Number.isFinite(Number(w.wind_speed_10m))?Number(w.wind_speed_10m).toFixed(0):'—'} km/h</div><div class="live-sub">${dirToText(w.wind_direction_10m)} · ${w.wind_direction_10m ?? '—'}°</div></div><div class="live-card"><div class="live-label">Decisão</div><div class="live-value">${decisionForBeach(b,activeDay).label}</div><div class="live-sub">modo ${activeMode}</div></div><div class="live-card"><div class="live-label">Melhor janela</div><div class="live-value">${formatDayLabel(getBestWindow(b).d)}</div><div class="live-sub">score ${getBestWindow(b).score.toFixed(0)}</div></div></div><div class="foot">O briefing e o Top 3 mudam conforme o modo e o dia selecionados.</div></div>` + forecast3Html(name);
+  holder.innerHTML=`<div class="live-panel"><div class="live-head"><div><div class="st">Tempo snapshot</div><div class="count">Último update: ${freshness}</div></div><span class="status-pill ok">🟢</span></div><div class="live-grid"><div class="live-card"><div class="live-label">Ar</div><div class="live-value">${Number.isFinite(Number(w.temperature_2m))?Number(w.temperature_2m).toFixed(0):'—'}°C</div><div class="live-sub">${weatherCodeText(w.weather_code)}</div></div><div class="live-card"><div class="live-label">Vento</div><div class="live-value">${Number.isFinite(Number(w.wind_speed_10m))?Number(w.wind_speed_10m).toFixed(0):'—'} km/h</div><div class="live-sub">${dirToText(w.wind_direction_10m)} · ${w.wind_direction_10m ?? '—'}°</div></div><div class="live-card"><div class="live-label">Decisão</div><div class="live-value">${decisionForBeach(b,activeDay).label}</div><div class="live-sub">modo ${activeMode}</div></div><div class="live-card"><div class="live-label">Melhor janela</div><div class="live-value">${formatDayLabel(getBestWindow(b).d)}</div><div class="live-sub">score ${getBestWindow(b).score.toFixed(0)}</div></div></div><div class="foot">O briefing e o Top 3 mudam conforme o modo e o dia selecionados.</div></div>` + forecast3Html(name);
 }
 function renderSeaPanel(name){
   const b=beachByName(name), holder=$('seaDataWrap'); if(!b||!holder) return;
