@@ -1,309 +1,305 @@
 {
-  "generated_at_local": "2026-06-23T22:52:02.760624+01:00",
-  "generated_at_utc": "2026-06-23T21:52:02.760624+00:00",
+  "generated_at_local": "2026-06-24T05:25:14.329783+01:00",
+  "generated_at_utc": "2026-06-24T04:25:14.329783+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
-      "temperature_2m": 20.0,
-      "wind_speed_10m": 3.2,
-      "wind_direction_10m": 243,
-      "weather_code": 2
+      "temperature_2m": 19.3,
+      "wind_speed_10m": 2.9,
+      "wind_direction_10m": 97,
+      "weather_code": 45
     },
     {
       "name": "Praia de Monte Clérigo",
-      "temperature_2m": 20.0,
-      "wind_speed_10m": 3.2,
-      "wind_direction_10m": 243,
-      "weather_code": 2
+      "temperature_2m": 19.3,
+      "wind_speed_10m": 2.9,
+      "wind_direction_10m": 97,
+      "weather_code": 45
     },
     {
       "name": "Praia da Arrifana",
-      "temperature_2m": 20.0,
-      "wind_speed_10m": 3.7,
-      "wind_direction_10m": 281,
-      "weather_code": 3
+      "temperature_2m": 19.3,
+      "wind_speed_10m": 2.5,
+      "wind_direction_10m": 90,
+      "weather_code": 45
     },
     {
       "name": "Praia da Barradinha",
-      "temperature_2m": 19.9,
-      "wind_speed_10m": 3.2,
-      "wind_direction_10m": 243,
-      "weather_code": 2
+      "temperature_2m": 19.3,
+      "wind_speed_10m": 2.9,
+      "wind_direction_10m": 97,
+      "weather_code": 45
     },
     {
       "name": "Praia da Carriagem",
-      "temperature_2m": 19.8,
-      "wind_speed_10m": 3.2,
-      "wind_direction_10m": 243,
-      "weather_code": 2
+      "temperature_2m": 19.1,
+      "wind_speed_10m": 2.9,
+      "wind_direction_10m": 97,
+      "weather_code": 45
     },
     {
       "name": "Praia da Samouqueira",
-      "temperature_2m": 19.9,
-      "wind_speed_10m": 3.2,
-      "wind_direction_10m": 243,
-      "weather_code": 2
+      "temperature_2m": 19.2,
+      "wind_speed_10m": 2.9,
+      "wind_direction_10m": 97,
+      "weather_code": 45
     },
     {
       "name": "Praia de Vale dos Homens",
-      "temperature_2m": 20.0,
-      "wind_speed_10m": 3.2,
-      "wind_direction_10m": 243,
-      "weather_code": 2
+      "temperature_2m": 19.3,
+      "wind_speed_10m": 2.9,
+      "wind_direction_10m": 97,
+      "weather_code": 45
     },
     {
       "name": "Praia do Canal",
-      "temperature_2m": 19.7,
-      "wind_speed_10m": 7.2,
-      "wind_direction_10m": 307,
-      "weather_code": 2
+      "temperature_2m": 18.9,
+      "wind_speed_10m": 2.0,
+      "wind_direction_10m": 45,
+      "weather_code": 45
     },
     {
-      "name": "Praia de Vale Figueiras",
-      "temperature_2m": 19.7,
-      "wind_speed_10m": 6.6,
-      "wind_direction_10m": 299,
-      "weather_code": 2
+      "name": "Praia de Vale Figueiras"
     },
     {
       "name": "Praia de Odeceixe",
-      "temperature_2m": 19.7,
-      "wind_speed_10m": 3.8,
-      "wind_direction_10m": 229,
-      "weather_code": 2
+      "temperature_2m": 19.1,
+      "wind_speed_10m": 2.7,
+      "wind_direction_10m": 113,
+      "weather_code": 45
     },
     {
       "name": "Praia das Adegas",
-      "temperature_2m": 19.7,
-      "wind_speed_10m": 3.8,
-      "wind_direction_10m": 229,
-      "weather_code": 2
+      "temperature_2m": 19.1,
+      "wind_speed_10m": 2.7,
+      "wind_direction_10m": 113,
+      "weather_code": 45
     },
     {
       "name": "Praia da Bordeira",
-      "temperature_2m": 19.7,
-      "wind_speed_10m": 6.6,
-      "wind_direction_10m": 299,
+      "temperature_2m": 19.3,
+      "wind_speed_10m": 1.3,
+      "wind_direction_10m": 34,
       "weather_code": 2
     },
     {
-      "name": "Praia do Amado"
+      "name": "Praia do Amado",
+      "temperature_2m": 19.3,
+      "wind_speed_10m": 1.3,
+      "wind_direction_10m": 34,
+      "weather_code": 2
     },
     {
       "name": "Praia da Ingrina",
-      "temperature_2m": 19.9,
-      "wind_speed_10m": 10.3,
-      "wind_direction_10m": 295,
-      "weather_code": 2
+      "temperature_2m": 19.4,
+      "wind_speed_10m": 3.6,
+      "wind_direction_10m": 323,
+      "weather_code": 45
     },
     {
       "name": "Praia da Salema",
-      "temperature_2m": 19.9,
-      "wind_speed_10m": 10.3,
-      "wind_direction_10m": 295,
-      "weather_code": 2
+      "temperature_2m": 19.4,
+      "wind_speed_10m": 3.6,
+      "wind_direction_10m": 323,
+      "weather_code": 45
     },
     {
       "name": "Praia do Burgau",
-      "temperature_2m": 20.0,
-      "wind_speed_10m": 11.3,
-      "wind_direction_10m": 297,
-      "weather_code": 2
+      "temperature_2m": 19.3,
+      "wind_speed_10m": 2.3,
+      "wind_direction_10m": 321,
+      "weather_code": 1
     },
     {
       "name": "Praia da Zambujeira do Mar",
-      "temperature_2m": 19.8,
-      "wind_speed_10m": 6.4,
-      "wind_direction_10m": 232,
-      "weather_code": 2
+      "temperature_2m": 19.1,
+      "wind_speed_10m": 2.4,
+      "wind_direction_10m": 117,
+      "weather_code": 45
     },
     {
       "name": "Praia dos Alteirinhos",
-      "temperature_2m": 19.8,
-      "wind_speed_10m": 6.4,
-      "wind_direction_10m": 232,
-      "weather_code": 2
+      "temperature_2m": 19.1,
+      "wind_speed_10m": 2.4,
+      "wind_direction_10m": 117,
+      "weather_code": 45
     },
     {
       "name": "Praia do Castelejo",
-      "temperature_2m": 19.9,
-      "wind_speed_10m": 8.6,
-      "wind_direction_10m": 292,
+      "temperature_2m": 19.6,
+      "wind_speed_10m": 3.6,
+      "wind_direction_10m": 323,
       "weather_code": 2
     },
     {
-      "name": "Praia da Cordoama",
-      "temperature_2m": 19.9,
-      "wind_speed_10m": 8.6,
-      "wind_direction_10m": 292,
-      "weather_code": 2
+      "name": "Praia da Cordoama"
     },
     {
       "name": "Praia do Tonel",
-      "temperature_2m": 19.9,
-      "wind_speed_10m": 8.6,
-      "wind_direction_10m": 292,
+      "temperature_2m": 19.6,
+      "wind_speed_10m": 3.6,
+      "wind_direction_10m": 323,
       "weather_code": 2
     },
     {
       "name": "Praia da Mareta",
-      "temperature_2m": 19.9,
-      "wind_speed_10m": 8.6,
-      "wind_direction_10m": 292,
+      "temperature_2m": 19.6,
+      "wind_speed_10m": 3.6,
+      "wind_direction_10m": 323,
       "weather_code": 2
     },
     {
       "name": "Praia do Beliche",
-      "temperature_2m": 19.8,
-      "wind_speed_10m": 8.6,
-      "wind_direction_10m": 292,
+      "temperature_2m": 19.5,
+      "wind_speed_10m": 3.6,
+      "wind_direction_10m": 323,
       "weather_code": 2
     },
     {
       "name": "Praia do Zavial",
-      "temperature_2m": 19.7,
-      "wind_speed_10m": 10.3,
-      "wind_direction_10m": 295,
-      "weather_code": 2
+      "temperature_2m": 19.2,
+      "wind_speed_10m": 3.6,
+      "wind_direction_10m": 323,
+      "weather_code": 45
     },
     {
       "name": "Praia da Luz",
-      "temperature_2m": 19.9,
-      "wind_speed_10m": 11.3,
-      "wind_direction_10m": 297,
-      "weather_code": 2
+      "temperature_2m": 19.2,
+      "wind_speed_10m": 2.3,
+      "wind_direction_10m": 321,
+      "weather_code": 1
     },
     {
       "name": "Praia de Porto de Mós",
-      "temperature_2m": 20.0,
-      "wind_speed_10m": 11.3,
-      "wind_direction_10m": 297,
-      "weather_code": 2
+      "temperature_2m": 19.3,
+      "wind_speed_10m": 2.8,
+      "wind_direction_10m": 320,
+      "weather_code": 1
     },
     {
-      "name": "Meia Praia"
+      "name": "Meia Praia",
+      "temperature_2m": 19.8,
+      "wind_speed_10m": 2.8,
+      "wind_direction_10m": 310,
+      "weather_code": 1
     },
     {
       "name": "Praia Dona Ana",
-      "temperature_2m": 20.2,
-      "wind_speed_10m": 11.3,
-      "wind_direction_10m": 297,
-      "weather_code": 2
+      "temperature_2m": 19.5,
+      "wind_speed_10m": 2.8,
+      "wind_direction_10m": 320,
+      "weather_code": 1
     },
     {
       "name": "Praia do Camilo",
-      "temperature_2m": 20.0,
-      "wind_speed_10m": 11.3,
-      "wind_direction_10m": 297,
-      "weather_code": 2
+      "temperature_2m": 19.3,
+      "wind_speed_10m": 2.8,
+      "wind_direction_10m": 320,
+      "weather_code": 1
     },
     {
       "name": "Praia da Rocha",
-      "temperature_2m": 21.0,
-      "wind_speed_10m": 11.9,
-      "wind_direction_10m": 272,
+      "temperature_2m": 19.4,
+      "wind_speed_10m": 3.3,
+      "wind_direction_10m": 354,
       "weather_code": 0
     },
     {
       "name": "Praia do Vau",
-      "temperature_2m": 21.0,
-      "wind_speed_10m": 11.9,
-      "wind_direction_10m": 272,
+      "temperature_2m": 19.4,
+      "wind_speed_10m": 3.3,
+      "wind_direction_10m": 354,
       "weather_code": 0
     },
     {
-      "name": "Praia dos Três Irmãos",
-      "temperature_2m": 21.1,
-      "wind_speed_10m": 11.9,
-      "wind_direction_10m": 272,
-      "weather_code": 0
+      "name": "Praia dos Três Irmãos"
     },
     {
       "name": "Praia da Galé",
-      "temperature_2m": 21.9,
-      "wind_speed_10m": 12.0,
-      "wind_direction_10m": 263,
-      "weather_code": 0
+      "temperature_2m": 19.0,
+      "wind_speed_10m": 6.3,
+      "wind_direction_10m": 336,
+      "weather_code": 1
     },
     {
       "name": "Praia dos Salgados",
-      "temperature_2m": 21.9,
-      "wind_speed_10m": 12.0,
-      "wind_direction_10m": 263,
-      "weather_code": 0
+      "temperature_2m": 19.0,
+      "wind_speed_10m": 6.3,
+      "wind_direction_10m": 336,
+      "weather_code": 1
     },
     {
       "name": "Praia de São Rafael",
-      "temperature_2m": 21.7,
-      "wind_speed_10m": 12.0,
-      "wind_direction_10m": 263,
-      "weather_code": 0
+      "temperature_2m": 18.8,
+      "wind_speed_10m": 6.3,
+      "wind_direction_10m": 336,
+      "weather_code": 1
     },
     {
       "name": "Praia do Almograve",
-      "temperature_2m": 19.5,
-      "wind_speed_10m": 5.4,
-      "wind_direction_10m": 228,
-      "weather_code": 2
+      "temperature_2m": 19.2,
+      "wind_speed_10m": 2.3,
+      "wind_direction_10m": 129,
+      "weather_code": 45
     },
     {
       "name": "Praia do Malhão",
-      "temperature_2m": 19.3,
-      "wind_speed_10m": 5.9,
-      "wind_direction_10m": 223,
-      "weather_code": 2
+      "temperature_2m": 19.1,
+      "wind_speed_10m": 3.6,
+      "wind_direction_10m": 135,
+      "weather_code": 45
     },
     {
       "name": "Praia do Farol",
-      "temperature_2m": 19.0,
-      "wind_speed_10m": 5.9,
-      "wind_direction_10m": 223,
-      "weather_code": 2
+      "temperature_2m": 18.8,
+      "wind_speed_10m": 3.6,
+      "wind_direction_10m": 135,
+      "weather_code": 45
     },
     {
       "name": "Praia da Franquia",
-      "temperature_2m": 19.2,
-      "wind_speed_10m": 5.9,
-      "wind_direction_10m": 223,
-      "weather_code": 2
+      "temperature_2m": 19.0,
+      "wind_speed_10m": 3.6,
+      "wind_direction_10m": 135,
+      "weather_code": 45
     },
     {
       "name": "Praia das Furnas",
-      "temperature_2m": 19.4,
-      "wind_speed_10m": 5.2,
-      "wind_direction_10m": 245,
-      "weather_code": 2
+      "temperature_2m": 18.9,
+      "wind_speed_10m": 1.8,
+      "wind_direction_10m": 127,
+      "weather_code": 45
     },
     {
       "name": "Praia do Carvalhal (Odemira)",
-      "temperature_2m": 20.1,
-      "wind_speed_10m": 7.6,
-      "wind_direction_10m": 239,
-      "weather_code": 2
+      "temperature_2m": 19.5,
+      "wind_speed_10m": 1.8,
+      "wind_direction_10m": 127,
+      "weather_code": 45
     },
     {
       "name": "Praia dos Aivados",
-      "temperature_2m": 19.3,
-      "wind_speed_10m": 5.9,
-      "wind_direction_10m": 223,
-      "weather_code": 2
+      "temperature_2m": 19.1,
+      "wind_speed_10m": 3.6,
+      "wind_direction_10m": 135,
+      "weather_code": 45
     },
     {
-      "name": "Praia da Ilha do Pessegueiro",
-      "temperature_2m": 19.7,
-      "wind_speed_10m": 8.4,
-      "wind_direction_10m": 245,
-      "weather_code": 2
+      "name": "Praia da Ilha do Pessegueiro"
     },
     {
       "name": "Praia Grande de Porto Covo",
-      "temperature_2m": 19.5,
-      "wind_speed_10m": 8.4,
-      "wind_direction_10m": 245,
-      "weather_code": 2
+      "temperature_2m": 18.9,
+      "wind_speed_10m": 2.4,
+      "wind_direction_10m": 153,
+      "weather_code": 45
     },
     {
-      "name": "Praia de São Torpes"
+      "name": "Praia de São Torpes",
+      "temperature_2m": 19.5,
+      "wind_speed_10m": 3.2,
+      "wind_direction_10m": 153,
+      "weather_code": 2
     }
   ]
 }
