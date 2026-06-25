@@ -1,6 +1,15 @@
 {
   "entries": [
     {
+      "generated_at_local": "2026-06-25T19:25:34.162138+01:00",
+      "generated_at_utc": "2026-06-25T18:25:34.162138+00:00",
+      "beaches_count": 45,
+      "weather_items": 45,
+      "forecast_items": 45,
+      "sea_points": 12,
+      "source": "github-actions"
+    },
+    {
       "generated_at_local": "2026-06-25T16:11:33.022316+01:00",
       "generated_at_utc": "2026-06-25T15:11:33.022316+00:00",
       "beaches_count": 45,
