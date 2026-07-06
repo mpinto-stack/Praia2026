@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-07-06T19:22:11.394216+01:00",
-  "generated_at_utc": "2026-07-06T18:22:11.394216+00:00",
+  "generated_at_local": "2026-07-06T22:47:19.858835+01:00",
+  "generated_at_utc": "2026-07-06T21:47:19.858835+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -238,7 +238,29 @@
     },
     {
       "name": "Praia de Odeceixe",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-06",
+          "temp_max": 30.8,
+          "temp_min": 19.5,
+          "wind_speed_10m_max": 13.6,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-07-07",
+          "temp_max": 30.5,
+          "temp_min": 18.3,
+          "wind_speed_10m_max": 13.0,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-07-08",
+          "temp_max": 30.1,
+          "temp_min": 19.2,
+          "wind_speed_10m_max": 12.0,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia das Adegas",
@@ -320,29 +342,7 @@
     },
     {
       "name": "Praia da Ingrina",
-      "days": [
-        {
-          "date": "2026-07-06",
-          "temp_max": 33.6,
-          "temp_min": 20.7,
-          "wind_speed_10m_max": 18.1,
-          "weather_code": 0
-        },
-        {
-          "date": "2026-07-07",
-          "temp_max": 31.0,
-          "temp_min": 20.5,
-          "wind_speed_10m_max": 28.0,
-          "weather_code": 0
-        },
-        {
-          "date": "2026-07-08",
-          "temp_max": 30.2,
-          "temp_min": 20.3,
-          "wind_speed_10m_max": 24.3,
-          "weather_code": 3
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia da Salema",
@@ -476,7 +476,29 @@
     },
     {
       "name": "Praia da Cordoama",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-06",
+          "temp_max": 30.3,
+          "temp_min": 20.8,
+          "wind_speed_10m_max": 19.8,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-07-07",
+          "temp_max": 27.3,
+          "temp_min": 20.4,
+          "wind_speed_10m_max": 26.9,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-07-08",
+          "temp_max": 26.8,
+          "temp_min": 20.9,
+          "wind_speed_10m_max": 22.3,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia do Tonel",
@@ -688,29 +710,7 @@
     },
     {
       "name": "Praia do Camilo",
-      "days": [
-        {
-          "date": "2026-07-06",
-          "temp_max": 33.7,
-          "temp_min": 22.2,
-          "wind_speed_10m_max": 15.6,
-          "weather_code": 0
-        },
-        {
-          "date": "2026-07-07",
-          "temp_max": 35.0,
-          "temp_min": 20.6,
-          "wind_speed_10m_max": 23.2,
-          "weather_code": 0
-        },
-        {
-          "date": "2026-07-08",
-          "temp_max": 34.6,
-          "temp_min": 20.1,
-          "wind_speed_10m_max": 21.4,
-          "weather_code": 3
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia da Rocha",
@@ -740,7 +740,29 @@
     },
     {
       "name": "Praia do Vau",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-06",
+          "temp_max": 33.3,
+          "temp_min": 22.1,
+          "wind_speed_10m_max": 11.5,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-07-07",
+          "temp_max": 37.2,
+          "temp_min": 21.3,
+          "wind_speed_10m_max": 16.5,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-07-08",
+          "temp_max": 35.4,
+          "temp_min": 22.4,
+          "wind_speed_10m_max": 17.5,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia dos Três Irmãos",
@@ -978,7 +1000,29 @@
     },
     {
       "name": "Praia do Carvalhal (Odemira)",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-06",
+          "temp_max": 30.3,
+          "temp_min": 19.5,
+          "wind_speed_10m_max": 14.8,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-07-07",
+          "temp_max": 28.9,
+          "temp_min": 18.2,
+          "wind_speed_10m_max": 17.6,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-07-08",
+          "temp_max": 28.5,
+          "temp_min": 18.3,
+          "wind_speed_10m_max": 16.9,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia dos Aivados",
@@ -1034,29 +1078,7 @@
     },
     {
       "name": "Praia Grande de Porto Covo",
-      "days": [
-        {
-          "date": "2026-07-06",
-          "temp_max": 30.0,
-          "temp_min": 19.8,
-          "wind_speed_10m_max": 13.5,
-          "weather_code": 2
-        },
-        {
-          "date": "2026-07-07",
-          "temp_max": 29.9,
-          "temp_min": 18.1,
-          "wind_speed_10m_max": 16.2,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-07-08",
-          "temp_max": 30.0,
-          "temp_min": 17.3,
-          "wind_speed_10m_max": 16.4,
-          "weather_code": 3
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de São Torpes",
