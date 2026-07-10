@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-07-10T19:00:40.552303+01:00",
-  "generated_at_utc": "2026-07-10T18:00:40.552303+00:00",
+  "generated_at_local": "2026-07-10T22:20:12.154547+01:00",
+  "generated_at_utc": "2026-07-10T21:20:12.154547+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -316,33 +316,33 @@
     },
     {
       "name": "Praia do Amado",
-      "days": []
-    },
-    {
-      "name": "Praia da Ingrina",
       "days": [
         {
           "date": "2026-07-10",
-          "temp_max": 23.2,
-          "temp_min": 18.6,
-          "wind_speed_10m_max": 25.0,
+          "temp_max": 22.7,
+          "temp_min": 18.7,
+          "wind_speed_10m_max": 20.1,
           "weather_code": 2
         },
         {
           "date": "2026-07-11",
-          "temp_max": 24.7,
-          "temp_min": 18.8,
-          "wind_speed_10m_max": 18.3,
+          "temp_max": 24.3,
+          "temp_min": 19.0,
+          "wind_speed_10m_max": 16.8,
           "weather_code": 3
         },
         {
           "date": "2026-07-12",
-          "temp_max": 25.1,
-          "temp_min": 19.9,
-          "wind_speed_10m_max": 17.2,
-          "weather_code": 45
+          "temp_max": 25.4,
+          "temp_min": 18.9,
+          "wind_speed_10m_max": 15.4,
+          "weather_code": 3
         }
       ]
+    },
+    {
+      "name": "Praia da Ingrina",
+      "days": []
     },
     {
       "name": "Praia da Salema",
@@ -606,29 +606,7 @@
     },
     {
       "name": "Praia da Luz",
-      "days": [
-        {
-          "date": "2026-07-10",
-          "temp_max": 25.8,
-          "temp_min": 17.9,
-          "wind_speed_10m_max": 25.0,
-          "weather_code": 2
-        },
-        {
-          "date": "2026-07-11",
-          "temp_max": 25.9,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 18.3,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-07-12",
-          "temp_max": 26.5,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 17.1,
-          "weather_code": 3
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Porto de Mós",
@@ -684,7 +662,29 @@
     },
     {
       "name": "Praia Dona Ana",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-10",
+          "temp_max": 26.2,
+          "temp_min": 18.1,
+          "wind_speed_10m_max": 23.7,
+          "weather_code": 2
+        },
+        {
+          "date": "2026-07-11",
+          "temp_max": 25.5,
+          "temp_min": 18.6,
+          "wind_speed_10m_max": 17.3,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-07-12",
+          "temp_max": 25.9,
+          "temp_min": 19.1,
+          "wind_speed_10m_max": 16.6,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia do Camilo",
@@ -870,33 +870,33 @@
     },
     {
       "name": "Praia do Almograve",
-      "days": []
-    },
-    {
-      "name": "Praia do Malhão",
       "days": [
         {
           "date": "2026-07-10",
-          "temp_max": 21.1,
-          "temp_min": 18.2,
-          "wind_speed_10m_max": 22.0,
+          "temp_max": 21.2,
+          "temp_min": 18.6,
+          "wind_speed_10m_max": 21.4,
           "weather_code": 2
         },
         {
           "date": "2026-07-11",
-          "temp_max": 21.7,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 19.1,
-          "weather_code": 2
+          "temp_max": 22.2,
+          "temp_min": 19.0,
+          "wind_speed_10m_max": 18.3,
+          "weather_code": 3
         },
         {
           "date": "2026-07-12",
-          "temp_max": 22.2,
-          "temp_min": 18.5,
-          "wind_speed_10m_max": 17.4,
+          "temp_max": 22.8,
+          "temp_min": 18.7,
+          "wind_speed_10m_max": 17.0,
           "weather_code": 3
         }
       ]
+    },
+    {
+      "name": "Praia do Malhão",
+      "days": []
     },
     {
       "name": "Praia do Farol",
