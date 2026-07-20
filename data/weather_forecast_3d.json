@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-07-20T19:19:04.697194+01:00",
-  "generated_at_utc": "2026-07-20T18:19:04.697194+00:00",
+  "generated_at_local": "2026-07-20T22:23:40.338865+01:00",
+  "generated_at_utc": "2026-07-20T21:23:40.338865+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -476,33 +476,33 @@
     },
     {
       "name": "Praia da Cordoama",
-      "days": []
-    },
-    {
-      "name": "Praia do Tonel",
       "days": [
         {
           "date": "2026-07-20",
           "temp_max": 23.2,
-          "temp_min": 19.6,
+          "temp_min": 19.7,
           "wind_speed_10m_max": 22.2,
           "weather_code": 3
         },
         {
           "date": "2026-07-21",
-          "temp_max": 23.5,
-          "temp_min": 19.4,
+          "temp_max": 23.6,
+          "temp_min": 19.5,
           "wind_speed_10m_max": 18.7,
           "weather_code": 3
         },
         {
           "date": "2026-07-22",
-          "temp_max": 23.6,
-          "temp_min": 19.9,
+          "temp_max": 23.7,
+          "temp_min": 20.0,
           "wind_speed_10m_max": 22.4,
           "weather_code": 2
         }
       ]
+    },
+    {
+      "name": "Praia do Tonel",
+      "days": []
     },
     {
       "name": "Praia da Mareta",
@@ -766,33 +766,33 @@
     },
     {
       "name": "Praia dos Três Irmãos",
+      "days": []
+    },
+    {
+      "name": "Praia da Galé",
       "days": [
         {
           "date": "2026-07-20",
-          "temp_max": 30.2,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 15.8,
+          "temp_max": 31.9,
+          "temp_min": 19.1,
+          "wind_speed_10m_max": 16.7,
           "weather_code": 3
         },
         {
           "date": "2026-07-21",
-          "temp_max": 30.9,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 14.9,
+          "temp_max": 32.4,
+          "temp_min": 18.9,
+          "wind_speed_10m_max": 18.0,
           "weather_code": 3
         },
         {
           "date": "2026-07-22",
-          "temp_max": 31.4,
+          "temp_max": 33.5,
           "temp_min": 19.6,
-          "wind_speed_10m_max": 16.5,
-          "weather_code": 1
+          "wind_speed_10m_max": 17.3,
+          "weather_code": 2
         }
       ]
-    },
-    {
-      "name": "Praia da Galé",
-      "days": []
     },
     {
       "name": "Praia dos Salgados",
