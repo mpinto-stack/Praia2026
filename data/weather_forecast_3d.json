@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-08-03T19:04:07.100643+01:00",
-  "generated_at_utc": "2026-08-03T18:04:07.100643+00:00",
+  "generated_at_local": "2026-08-03T22:20:08.936658+01:00",
+  "generated_at_utc": "2026-08-03T21:20:08.936658+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -290,10 +290,6 @@
     },
     {
       "name": "Praia da Bordeira",
-      "days": []
-    },
-    {
-      "name": "Praia do Amado",
       "days": [
         {
           "date": "2026-08-03",
@@ -317,6 +313,10 @@
           "weather_code": 3
         }
       ]
+    },
+    {
+      "name": "Praia do Amado",
+      "days": []
     },
     {
       "name": "Praia da Ingrina",
@@ -606,33 +606,33 @@
     },
     {
       "name": "Praia da Luz",
-      "days": []
-    },
-    {
-      "name": "Praia de Porto de Mós",
       "days": [
         {
           "date": "2026-08-03",
-          "temp_max": 27.9,
-          "temp_min": 19.6,
-          "wind_speed_10m_max": 20.3,
+          "temp_max": 27.8,
+          "temp_min": 19.7,
+          "wind_speed_10m_max": 20.9,
           "weather_code": 3
         },
         {
           "date": "2026-08-04",
-          "temp_max": 27.5,
-          "temp_min": 20.5,
-          "wind_speed_10m_max": 22.2,
+          "temp_max": 27.6,
+          "temp_min": 20.7,
+          "wind_speed_10m_max": 23.0,
           "weather_code": 2
         },
         {
           "date": "2026-08-05",
-          "temp_max": 27.1,
+          "temp_max": 27.2,
           "temp_min": 20.2,
-          "wind_speed_10m_max": 26.9,
+          "wind_speed_10m_max": 27.9,
           "weather_code": 2
         }
       ]
+    },
+    {
+      "name": "Praia de Porto de Mós",
+      "days": []
     },
     {
       "name": "Meia Praia",
@@ -922,33 +922,33 @@
     },
     {
       "name": "Praia do Farol",
-      "days": []
-    },
-    {
-      "name": "Praia da Franquia",
       "days": [
         {
           "date": "2026-08-03",
-          "temp_max": 21.5,
-          "temp_min": 18.7,
+          "temp_max": 21.3,
+          "temp_min": 18.6,
           "wind_speed_10m_max": 12.7,
           "weather_code": 45
         },
         {
           "date": "2026-08-04",
-          "temp_max": 22.3,
-          "temp_min": 19.4,
+          "temp_max": 22.2,
+          "temp_min": 19.2,
           "wind_speed_10m_max": 15.9,
           "weather_code": 3
         },
         {
           "date": "2026-08-05",
-          "temp_max": 22.1,
-          "temp_min": 19.5,
+          "temp_max": 22.0,
+          "temp_min": 19.4,
           "wind_speed_10m_max": 28.1,
           "weather_code": 2
         }
       ]
+    },
+    {
+      "name": "Praia da Franquia",
+      "days": []
     },
     {
       "name": "Praia das Furnas",
