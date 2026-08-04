@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-08-04T19:03:12.093351+01:00",
-  "generated_at_utc": "2026-08-04T18:03:12.093351+00:00",
+  "generated_at_local": "2026-08-04T22:35:04.185714+01:00",
+  "generated_at_utc": "2026-08-04T21:35:04.185714+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -290,6 +290,10 @@
     },
     {
       "name": "Praia da Bordeira",
+      "days": []
+    },
+    {
+      "name": "Praia do Amado",
       "days": [
         {
           "date": "2026-08-04",
@@ -313,10 +317,6 @@
           "weather_code": 2
         }
       ]
-    },
-    {
-      "name": "Praia do Amado",
-      "days": []
     },
     {
       "name": "Praia da Ingrina",
@@ -580,7 +580,29 @@
     },
     {
       "name": "Praia do Zavial",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-04",
+          "temp_max": 25.6,
+          "temp_min": 19.8,
+          "wind_speed_10m_max": 20.6,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-08-05",
+          "temp_max": 24.9,
+          "temp_min": 19.7,
+          "wind_speed_10m_max": 28.2,
+          "weather_code": 2
+        },
+        {
+          "date": "2026-08-06",
+          "temp_max": 24.5,
+          "temp_min": 18.9,
+          "wind_speed_10m_max": 30.6,
+          "weather_code": 2
+        }
+      ]
     },
     {
       "name": "Praia da Luz",
@@ -610,29 +632,7 @@
     },
     {
       "name": "Praia de Porto de Mós",
-      "days": [
-        {
-          "date": "2026-08-04",
-          "temp_max": 28.2,
-          "temp_min": 20.5,
-          "wind_speed_10m_max": 20.7,
-          "weather_code": 2
-        },
-        {
-          "date": "2026-08-05",
-          "temp_max": 27.6,
-          "temp_min": 20.1,
-          "wind_speed_10m_max": 26.3,
-          "weather_code": 2
-        },
-        {
-          "date": "2026-08-06",
-          "temp_max": 28.4,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 25.0,
-          "weather_code": 2
-        }
-      ]
+      "days": []
     },
     {
       "name": "Meia Praia",
@@ -896,33 +896,33 @@
     },
     {
       "name": "Praia do Malhão",
+      "days": []
+    },
+    {
+      "name": "Praia do Farol",
       "days": [
         {
           "date": "2026-08-04",
-          "temp_max": 22.6,
-          "temp_min": 19.4,
+          "temp_max": 22.3,
+          "temp_min": 19.1,
           "wind_speed_10m_max": 15.3,
           "weather_code": 2
         },
         {
           "date": "2026-08-05",
-          "temp_max": 22.4,
-          "temp_min": 19.4,
+          "temp_max": 22.1,
+          "temp_min": 19.1,
           "wind_speed_10m_max": 25.6,
           "weather_code": 2
         },
         {
           "date": "2026-08-06",
-          "temp_max": 22.7,
-          "temp_min": 18.8,
+          "temp_max": 22.4,
+          "temp_min": 18.5,
           "wind_speed_10m_max": 25.6,
           "weather_code": 2
         }
       ]
-    },
-    {
-      "name": "Praia do Farol",
-      "days": []
     },
     {
       "name": "Praia da Franquia",
