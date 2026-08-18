@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-08-18T05:50:18.214983+01:00",
-  "generated_at_utc": "2026-08-18T04:50:18.214983+00:00",
+  "generated_at_local": "2026-08-18T09:52:47.352593+01:00",
+  "generated_at_utc": "2026-08-18T08:52:47.352593+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -290,29 +290,7 @@
     },
     {
       "name": "Praia da Bordeira",
-      "days": [
-        {
-          "date": "2026-08-18",
-          "temp_max": 27.1,
-          "temp_min": 19.6,
-          "wind_speed_10m_max": 11.5,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-08-19",
-          "temp_max": 26.2,
-          "temp_min": 20.2,
-          "wind_speed_10m_max": 14.1,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-20",
-          "temp_max": 24.1,
-          "temp_min": 19.5,
-          "wind_speed_10m_max": 19.7,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia do Amado",
@@ -342,7 +320,29 @@
     },
     {
       "name": "Praia da Ingrina",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-18",
+          "temp_max": 24.9,
+          "temp_min": 19.0,
+          "wind_speed_10m_max": 12.4,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-08-19",
+          "temp_max": 24.4,
+          "temp_min": 19.2,
+          "wind_speed_10m_max": 13.0,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-08-20",
+          "temp_max": 24.4,
+          "temp_min": 19.2,
+          "wind_speed_10m_max": 23.9,
+          "weather_code": 45
+        }
+      ]
     },
     {
       "name": "Praia da Salema",
@@ -632,29 +632,7 @@
     },
     {
       "name": "Praia de Porto de Mós",
-      "days": [
-        {
-          "date": "2026-08-18",
-          "temp_max": 25.8,
-          "temp_min": 19.5,
-          "wind_speed_10m_max": 12.8,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-08-19",
-          "temp_max": 24.8,
-          "temp_min": 19.6,
-          "wind_speed_10m_max": 12.7,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-20",
-          "temp_max": 25.5,
-          "temp_min": 19.6,
-          "wind_speed_10m_max": 20.8,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Meia Praia",
@@ -710,7 +688,29 @@
     },
     {
       "name": "Praia do Camilo",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-18",
+          "temp_max": 25.8,
+          "temp_min": 19.5,
+          "wind_speed_10m_max": 12.8,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-08-19",
+          "temp_max": 24.8,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 12.7,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-08-20",
+          "temp_max": 25.5,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 20.8,
+          "weather_code": 45
+        }
+      ]
     },
     {
       "name": "Praia da Rocha",
@@ -974,29 +974,7 @@
     },
     {
       "name": "Praia das Furnas",
-      "days": [
-        {
-          "date": "2026-08-18",
-          "temp_max": 25.4,
-          "temp_min": 19.3,
-          "wind_speed_10m_max": 15.8,
-          "weather_code": 2
-        },
-        {
-          "date": "2026-08-19",
-          "temp_max": 24.9,
-          "temp_min": 19.7,
-          "wind_speed_10m_max": 17.3,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-20",
-          "temp_max": 23.5,
-          "temp_min": 18.8,
-          "wind_speed_10m_max": 21.5,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia do Carvalhal (Odemira)",
@@ -1026,7 +1004,29 @@
     },
     {
       "name": "Praia dos Aivados",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-18",
+          "temp_max": 22.0,
+          "temp_min": 19.5,
+          "wind_speed_10m_max": 13.1,
+          "weather_code": 2
+        },
+        {
+          "date": "2026-08-19",
+          "temp_max": 22.0,
+          "temp_min": 19.5,
+          "wind_speed_10m_max": 14.7,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-08-20",
+          "temp_max": 21.3,
+          "temp_min": 18.9,
+          "wind_speed_10m_max": 29.5,
+          "weather_code": 45
+        }
+      ]
     },
     {
       "name": "Praia da Ilha do Pessegueiro",
