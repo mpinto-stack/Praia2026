@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-08-19T14:08:27.873635+01:00",
-  "generated_at_utc": "2026-08-19T13:08:27.873635+00:00",
+  "generated_at_local": "2026-08-19T17:45:58.981430+01:00",
+  "generated_at_utc": "2026-08-19T16:45:58.981430+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -580,33 +580,33 @@
     },
     {
       "name": "Praia do Zavial",
-      "days": []
-    },
-    {
-      "name": "Praia da Luz",
       "days": [
         {
           "date": "2026-08-19",
-          "temp_max": 25.8,
-          "temp_min": 20.1,
-          "wind_speed_10m_max": 17.1,
+          "temp_max": 24.2,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 15.3,
           "weather_code": 45
         },
         {
           "date": "2026-08-20",
-          "temp_max": 26.4,
-          "temp_min": 20.2,
-          "wind_speed_10m_max": 24.6,
+          "temp_max": 24.3,
+          "temp_min": 19.8,
+          "wind_speed_10m_max": 25.9,
           "weather_code": 45
         },
         {
           "date": "2026-08-21",
-          "temp_max": 25.5,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 27.1,
-          "weather_code": 1
+          "temp_max": 23.5,
+          "temp_min": 18.3,
+          "wind_speed_10m_max": 27.7,
+          "weather_code": 2
         }
       ]
+    },
+    {
+      "name": "Praia da Luz",
+      "days": []
     },
     {
       "name": "Praia de Porto de Mós",
@@ -818,33 +818,33 @@
     },
     {
       "name": "Praia dos Salgados",
-      "days": []
-    },
-    {
-      "name": "Praia de São Rafael",
       "days": [
         {
           "date": "2026-08-19",
-          "temp_max": 25.8,
-          "temp_min": 20.4,
+          "temp_max": 26.0,
+          "temp_min": 20.6,
           "wind_speed_10m_max": 17.0,
           "weather_code": 3
         },
         {
           "date": "2026-08-20",
-          "temp_max": 30.3,
-          "temp_min": 20.3,
+          "temp_max": 30.5,
+          "temp_min": 20.5,
           "wind_speed_10m_max": 20.2,
           "weather_code": 2
         },
         {
           "date": "2026-08-21",
-          "temp_max": 28.6,
-          "temp_min": 18.3,
+          "temp_max": 28.8,
+          "temp_min": 18.5,
           "wind_speed_10m_max": 17.7,
           "weather_code": 1
         }
       ]
+    },
+    {
+      "name": "Praia de São Rafael",
+      "days": []
     },
     {
       "name": "Praia do Almograve",
@@ -1082,7 +1082,29 @@
     },
     {
       "name": "Praia de São Torpes",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-19",
+          "temp_max": 25.8,
+          "temp_min": 20.2,
+          "wind_speed_10m_max": 14.7,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-08-20",
+          "temp_max": 23.9,
+          "temp_min": 19.7,
+          "wind_speed_10m_max": 18.4,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-08-21",
+          "temp_max": 23.4,
+          "temp_min": 18.2,
+          "wind_speed_10m_max": 25.2,
+          "weather_code": 2
+        }
+      ]
     }
   ]
 }
