@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-09-06T13:08:55.850206+01:00",
-  "generated_at_utc": "2026-09-06T12:08:55.850206+00:00",
+  "generated_at_local": "2026-09-06T16:25:55.439727+01:00",
+  "generated_at_utc": "2026-09-06T15:25:55.439727+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -342,7 +342,29 @@
     },
     {
       "name": "Praia da Ingrina",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-06",
+          "temp_max": 29.5,
+          "temp_min": 21.2,
+          "wind_speed_10m_max": 22.9,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-09-07",
+          "temp_max": 28.1,
+          "temp_min": 21.5,
+          "wind_speed_10m_max": 27.4,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-09-08",
+          "temp_max": 24.4,
+          "temp_min": 19.7,
+          "wind_speed_10m_max": 34.7,
+          "weather_code": 2
+        }
+      ]
     },
     {
       "name": "Praia da Salema",
@@ -476,29 +498,7 @@
     },
     {
       "name": "Praia da Cordoama",
-      "days": [
-        {
-          "date": "2026-09-06",
-          "temp_max": 25.9,
-          "temp_min": 20.9,
-          "wind_speed_10m_max": 21.8,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-09-07",
-          "temp_max": 24.8,
-          "temp_min": 21.0,
-          "wind_speed_10m_max": 26.6,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-09-08",
-          "temp_max": 22.3,
-          "temp_min": 19.6,
-          "wind_speed_10m_max": 34.6,
-          "weather_code": 1
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia do Tonel",
@@ -580,7 +580,29 @@
     },
     {
       "name": "Praia do Zavial",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-06",
+          "temp_max": 29.3,
+          "temp_min": 21.0,
+          "wind_speed_10m_max": 22.9,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-09-07",
+          "temp_max": 27.9,
+          "temp_min": 21.3,
+          "wind_speed_10m_max": 27.4,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-09-08",
+          "temp_max": 24.2,
+          "temp_min": 19.5,
+          "wind_speed_10m_max": 34.7,
+          "weather_code": 2
+        }
+      ]
     },
     {
       "name": "Praia da Luz",
@@ -896,7 +918,29 @@
     },
     {
       "name": "Praia do Malhão",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-06",
+          "temp_max": 24.1,
+          "temp_min": 19.2,
+          "wind_speed_10m_max": 17.7,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-09-07",
+          "temp_max": 23.6,
+          "temp_min": 19.3,
+          "wind_speed_10m_max": 20.4,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-09-08",
+          "temp_max": 21.4,
+          "temp_min": 18.3,
+          "wind_speed_10m_max": 24.6,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia do Farol",
@@ -978,29 +1022,7 @@
     },
     {
       "name": "Praia do Carvalhal (Odemira)",
-      "days": [
-        {
-          "date": "2026-09-06",
-          "temp_max": 28.9,
-          "temp_min": 19.8,
-          "wind_speed_10m_max": 17.6,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-09-07",
-          "temp_max": 27.3,
-          "temp_min": 20.3,
-          "wind_speed_10m_max": 18.7,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-09-08",
-          "temp_max": 23.9,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 22.5,
-          "weather_code": 3
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia dos Aivados",
