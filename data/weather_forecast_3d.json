@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-09-12T13:10:09.833272+01:00",
-  "generated_at_utc": "2026-09-12T12:10:09.833272+00:00",
+  "generated_at_local": "2026-09-12T16:30:31.836727+01:00",
+  "generated_at_utc": "2026-09-12T15:30:31.836727+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -290,6 +290,10 @@
     },
     {
       "name": "Praia da Bordeira",
+      "days": []
+    },
+    {
+      "name": "Praia do Amado",
       "days": [
         {
           "date": "2026-09-12",
@@ -313,10 +317,6 @@
           "weather_code": 0
         }
       ]
-    },
-    {
-      "name": "Praia do Amado",
-      "days": []
     },
     {
       "name": "Praia da Ingrina",
@@ -658,33 +658,33 @@
     },
     {
       "name": "Meia Praia",
+      "days": []
+    },
+    {
+      "name": "Praia Dona Ana",
       "days": [
         {
           "date": "2026-09-12",
-          "temp_max": 31.9,
-          "temp_min": 19.7,
-          "wind_speed_10m_max": 15.8,
+          "temp_max": 32.6,
+          "temp_min": 20.3,
+          "wind_speed_10m_max": 13.7,
           "weather_code": 0
         },
         {
           "date": "2026-09-13",
-          "temp_max": 30.0,
-          "temp_min": 22.0,
-          "wind_speed_10m_max": 17.5,
+          "temp_max": 30.4,
+          "temp_min": 22.4,
+          "wind_speed_10m_max": 18.8,
           "weather_code": 0
         },
         {
           "date": "2026-09-14",
-          "temp_max": 28.5,
-          "temp_min": 21.5,
-          "wind_speed_10m_max": 13.0,
+          "temp_max": 29.5,
+          "temp_min": 22.0,
+          "wind_speed_10m_max": 13.9,
           "weather_code": 0
         }
       ]
-    },
-    {
-      "name": "Praia Dona Ana",
-      "days": []
     },
     {
       "name": "Praia do Camilo",
@@ -948,29 +948,7 @@
     },
     {
       "name": "Praia da Franquia",
-      "days": [
-        {
-          "date": "2026-09-12",
-          "temp_max": 25.2,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 18.8,
-          "weather_code": 0
-        },
-        {
-          "date": "2026-09-13",
-          "temp_max": 27.3,
-          "temp_min": 19.0,
-          "wind_speed_10m_max": 19.5,
-          "weather_code": 0
-        },
-        {
-          "date": "2026-09-14",
-          "temp_max": 26.0,
-          "temp_min": 19.1,
-          "wind_speed_10m_max": 17.6,
-          "weather_code": 0
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia das Furnas",
@@ -1026,7 +1004,29 @@
     },
     {
       "name": "Praia dos Aivados",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-12",
+          "temp_max": 25.4,
+          "temp_min": 17.9,
+          "wind_speed_10m_max": 18.8,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-09-13",
+          "temp_max": 27.4,
+          "temp_min": 19.1,
+          "wind_speed_10m_max": 19.5,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-09-14",
+          "temp_max": 26.1,
+          "temp_min": 19.2,
+          "wind_speed_10m_max": 17.6,
+          "weather_code": 0
+        }
+      ]
     },
     {
       "name": "Praia da Ilha do Pessegueiro",
