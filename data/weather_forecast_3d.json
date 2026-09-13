@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-09-13T19:48:00.857263+01:00",
-  "generated_at_utc": "2026-09-13T18:48:00.857263+00:00",
+  "generated_at_local": "2026-09-13T23:23:32.008336+01:00",
+  "generated_at_utc": "2026-09-13T22:23:32.008336+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -14,16 +14,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 28.0,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 13.7,
+          "temp_max": 28.1,
+          "temp_min": 18.3,
+          "wind_speed_10m_max": 13.9,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 23.5,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 19.8,
+          "temp_max": 23.4,
+          "temp_min": 17.8,
+          "wind_speed_10m_max": 19.0,
           "weather_code": 2
         }
       ]
@@ -40,16 +40,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 28.0,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 13.7,
+          "temp_max": 28.1,
+          "temp_min": 18.3,
+          "wind_speed_10m_max": 13.9,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 23.5,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 19.8,
+          "temp_max": 23.4,
+          "temp_min": 17.8,
+          "wind_speed_10m_max": 19.0,
           "weather_code": 2
         }
       ]
@@ -66,16 +66,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 29.9,
-          "temp_min": 20.2,
-          "wind_speed_10m_max": 14.4,
+          "temp_max": 29.7,
+          "temp_min": 20.0,
+          "wind_speed_10m_max": 15.0,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 24.9,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 20.9,
+          "temp_min": 18.5,
+          "wind_speed_10m_max": 20.5,
           "weather_code": 2
         }
       ]
@@ -93,15 +93,15 @@
         {
           "date": "2026-09-14",
           "temp_max": 28.0,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 13.7,
+          "temp_min": 18.2,
+          "wind_speed_10m_max": 13.9,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 23.4,
-          "temp_min": 17.5,
-          "wind_speed_10m_max": 19.8,
+          "temp_min": 17.7,
+          "wind_speed_10m_max": 19.0,
           "weather_code": 2
         }
       ]
@@ -118,16 +118,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 27.8,
-          "temp_min": 18.2,
-          "wind_speed_10m_max": 13.7,
+          "temp_max": 27.9,
+          "temp_min": 18.1,
+          "wind_speed_10m_max": 13.9,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 23.3,
-          "temp_min": 17.4,
-          "wind_speed_10m_max": 19.8,
+          "temp_max": 23.2,
+          "temp_min": 17.6,
+          "wind_speed_10m_max": 19.0,
           "weather_code": 2
         }
       ]
@@ -144,16 +144,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 27.9,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 13.7,
+          "temp_max": 28.0,
+          "temp_min": 18.2,
+          "wind_speed_10m_max": 13.9,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 23.4,
-          "temp_min": 17.5,
-          "wind_speed_10m_max": 19.8,
+          "temp_max": 23.3,
+          "temp_min": 17.7,
+          "wind_speed_10m_max": 19.0,
           "weather_code": 2
         }
       ]
@@ -170,16 +170,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 28.0,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 13.7,
+          "temp_max": 28.1,
+          "temp_min": 18.3,
+          "wind_speed_10m_max": 13.9,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 23.5,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 19.8,
+          "temp_max": 23.4,
+          "temp_min": 17.8,
+          "wind_speed_10m_max": 19.0,
           "weather_code": 2
         }
       ]
@@ -196,16 +196,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 31.1,
-          "temp_min": 21.3,
+          "temp_max": 30.8,
+          "temp_min": 21.1,
           "wind_speed_10m_max": 14.8,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 25.5,
-          "temp_min": 18.2,
-          "wind_speed_10m_max": 23.5,
+          "temp_max": 25.4,
+          "temp_min": 18.4,
+          "wind_speed_10m_max": 22.8,
           "weather_code": 2
         }
       ]
@@ -222,23 +222,45 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 29.7,
-          "temp_min": 20.6,
-          "wind_speed_10m_max": 11.5,
+          "temp_max": 29.6,
+          "temp_min": 20.5,
+          "wind_speed_10m_max": 12.0,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 23.8,
-          "temp_min": 19.2,
-          "wind_speed_10m_max": 22.3,
+          "temp_max": 23.7,
+          "temp_min": 19.1,
+          "wind_speed_10m_max": 22.0,
           "weather_code": 2
         }
       ]
     },
     {
       "name": "Praia de Odeceixe",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-13",
+          "temp_max": 32.5,
+          "temp_min": 18.2,
+          "wind_speed_10m_max": 13.9,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-09-14",
+          "temp_max": 30.2,
+          "temp_min": 18.4,
+          "wind_speed_10m_max": 15.9,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-09-15",
+          "temp_max": 24.9,
+          "temp_min": 18.5,
+          "wind_speed_10m_max": 17.3,
+          "weather_code": 2
+        }
+      ]
     },
     {
       "name": "Praia das Adegas",
@@ -252,16 +274,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 30.0,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 15.4,
+          "temp_max": 30.2,
+          "temp_min": 18.4,
+          "wind_speed_10m_max": 15.9,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 25.0,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 17.6,
+          "temp_max": 24.9,
+          "temp_min": 18.5,
+          "wind_speed_10m_max": 17.3,
           "weather_code": 2
         }
       ]
@@ -278,16 +300,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 29.7,
-          "temp_min": 20.6,
-          "wind_speed_10m_max": 11.5,
+          "temp_max": 29.6,
+          "temp_min": 20.5,
+          "wind_speed_10m_max": 12.0,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 23.8,
-          "temp_min": 19.2,
-          "wind_speed_10m_max": 22.3,
+          "temp_max": 23.7,
+          "temp_min": 19.1,
+          "wind_speed_10m_max": 22.0,
           "weather_code": 2
         }
       ]
@@ -304,16 +326,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 29.7,
-          "temp_min": 20.6,
-          "wind_speed_10m_max": 11.5,
+          "temp_max": 29.6,
+          "temp_min": 20.5,
+          "wind_speed_10m_max": 12.0,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 23.8,
-          "temp_min": 19.2,
-          "wind_speed_10m_max": 22.3,
+          "temp_max": 23.7,
+          "temp_min": 19.1,
+          "wind_speed_10m_max": 22.0,
           "weather_code": 2
         }
       ]
@@ -324,22 +346,22 @@
         {
           "date": "2026-09-13",
           "temp_max": 28.5,
-          "temp_min": 21.5,
+          "temp_min": 21.3,
           "wind_speed_10m_max": 20.2,
           "weather_code": 0
         },
         {
           "date": "2026-09-14",
-          "temp_max": 29.4,
-          "temp_min": 21.1,
-          "wind_speed_10m_max": 15.5,
+          "temp_max": 29.6,
+          "temp_min": 20.9,
+          "wind_speed_10m_max": 15.1,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 24.9,
-          "temp_min": 19.5,
-          "wind_speed_10m_max": 32.5,
+          "temp_max": 25.1,
+          "temp_min": 19.4,
+          "wind_speed_10m_max": 32.4,
           "weather_code": 1
         }
       ]
@@ -350,22 +372,22 @@
         {
           "date": "2026-09-13",
           "temp_max": 28.5,
-          "temp_min": 21.5,
+          "temp_min": 21.3,
           "wind_speed_10m_max": 20.2,
           "weather_code": 0
         },
         {
           "date": "2026-09-14",
-          "temp_max": 29.4,
-          "temp_min": 21.1,
-          "wind_speed_10m_max": 15.5,
+          "temp_max": 29.6,
+          "temp_min": 20.9,
+          "wind_speed_10m_max": 15.1,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 24.9,
-          "temp_min": 19.5,
-          "wind_speed_10m_max": 32.5,
+          "temp_max": 25.1,
+          "temp_min": 19.4,
+          "wind_speed_10m_max": 32.4,
           "weather_code": 1
         }
       ]
@@ -382,15 +404,15 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 31.3,
-          "temp_min": 22.0,
-          "wind_speed_10m_max": 18.8,
+          "temp_max": 31.5,
+          "temp_min": 21.9,
+          "wind_speed_10m_max": 18.6,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 29.4,
-          "temp_min": 20.0,
+          "temp_min": 19.8,
           "wind_speed_10m_max": 29.6,
           "weather_code": 1
         }
@@ -409,15 +431,15 @@
         {
           "date": "2026-09-14",
           "temp_max": 29.8,
-          "temp_min": 18.9,
+          "temp_min": 18.5,
           "wind_speed_10m_max": 16.2,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 24.4,
-          "temp_min": 18.5,
-          "wind_speed_10m_max": 19.1,
+          "temp_max": 24.3,
+          "temp_min": 18.6,
+          "wind_speed_10m_max": 18.3,
           "weather_code": 2
         }
       ]
@@ -435,15 +457,15 @@
         {
           "date": "2026-09-14",
           "temp_max": 29.8,
-          "temp_min": 18.9,
+          "temp_min": 18.5,
           "wind_speed_10m_max": 16.2,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 24.4,
-          "temp_min": 18.5,
-          "wind_speed_10m_max": 19.1,
+          "temp_max": 24.3,
+          "temp_min": 18.6,
+          "wind_speed_10m_max": 18.3,
           "weather_code": 2
         }
       ]
@@ -460,16 +482,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 27.7,
-          "temp_min": 20.9,
-          "wind_speed_10m_max": 15.0,
+          "temp_max": 27.6,
+          "temp_min": 20.7,
+          "wind_speed_10m_max": 13.3,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 22.7,
-          "temp_min": 19.7,
-          "wind_speed_10m_max": 31.9,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 32.1,
           "weather_code": 2
         }
       ]
@@ -486,23 +508,45 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 27.7,
-          "temp_min": 20.9,
-          "wind_speed_10m_max": 15.0,
+          "temp_max": 27.6,
+          "temp_min": 20.7,
+          "wind_speed_10m_max": 13.3,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 22.7,
-          "temp_min": 19.7,
-          "wind_speed_10m_max": 31.9,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 32.1,
           "weather_code": 2
         }
       ]
     },
     {
       "name": "Praia do Tonel",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-13",
+          "temp_max": 28.6,
+          "temp_min": 20.6,
+          "wind_speed_10m_max": 21.8,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-09-14",
+          "temp_max": 27.6,
+          "temp_min": 20.7,
+          "wind_speed_10m_max": 13.3,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-09-15",
+          "temp_max": 22.6,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 32.1,
+          "weather_code": 2
+        }
+      ]
     },
     {
       "name": "Praia da Mareta",
@@ -516,16 +560,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 27.7,
-          "temp_min": 20.9,
-          "wind_speed_10m_max": 15.0,
+          "temp_max": 27.6,
+          "temp_min": 20.7,
+          "wind_speed_10m_max": 13.3,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 22.6,
           "temp_min": 19.6,
-          "wind_speed_10m_max": 31.9,
+          "wind_speed_10m_max": 32.1,
           "weather_code": 2
         }
       ]
@@ -542,16 +586,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 27.6,
-          "temp_min": 20.8,
-          "wind_speed_10m_max": 15.0,
+          "temp_max": 27.5,
+          "temp_min": 20.6,
+          "wind_speed_10m_max": 13.3,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 22.5,
           "temp_min": 19.5,
-          "wind_speed_10m_max": 31.9,
+          "wind_speed_10m_max": 32.1,
           "weather_code": 2
         }
       ]
@@ -562,22 +606,22 @@
         {
           "date": "2026-09-13",
           "temp_max": 28.3,
-          "temp_min": 21.3,
+          "temp_min": 21.1,
           "wind_speed_10m_max": 20.2,
           "weather_code": 0
         },
         {
           "date": "2026-09-14",
-          "temp_max": 29.2,
-          "temp_min": 20.9,
-          "wind_speed_10m_max": 15.5,
+          "temp_max": 29.4,
+          "temp_min": 20.7,
+          "wind_speed_10m_max": 15.1,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 24.7,
-          "temp_min": 19.3,
-          "wind_speed_10m_max": 32.5,
+          "temp_max": 24.9,
+          "temp_min": 19.2,
+          "wind_speed_10m_max": 32.4,
           "weather_code": 1
         }
       ]
@@ -594,15 +638,15 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 31.2,
-          "temp_min": 21.9,
-          "wind_speed_10m_max": 18.8,
+          "temp_max": 31.4,
+          "temp_min": 21.8,
+          "wind_speed_10m_max": 18.6,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 29.3,
-          "temp_min": 19.9,
+          "temp_min": 19.7,
           "wind_speed_10m_max": 29.6,
           "weather_code": 1
         }
@@ -620,14 +664,14 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 30.3,
-          "temp_min": 21.6,
-          "wind_speed_10m_max": 16.3,
+          "temp_max": 30.2,
+          "temp_min": 21.5,
+          "wind_speed_10m_max": 16.5,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 30.3,
+          "temp_max": 30.2,
           "temp_min": 19.8,
           "wind_speed_10m_max": 27.6,
           "weather_code": 1
@@ -646,17 +690,17 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 29.7,
-          "temp_min": 21.2,
-          "wind_speed_10m_max": 12.2,
+          "temp_max": 29.8,
+          "temp_min": 20.9,
+          "wind_speed_10m_max": 12.7,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 32.1,
-          "temp_min": 19.8,
-          "wind_speed_10m_max": 25.5,
-          "weather_code": 1
+          "temp_max": 32.0,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 25.3,
+          "weather_code": 0
         }
       ]
     },
@@ -672,15 +716,15 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 30.6,
-          "temp_min": 21.9,
-          "wind_speed_10m_max": 16.3,
+          "temp_max": 30.4,
+          "temp_min": 21.7,
+          "wind_speed_10m_max": 16.5,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 30.5,
-          "temp_min": 20.0,
+          "temp_max": 30.4,
+          "temp_min": 20.1,
           "wind_speed_10m_max": 27.6,
           "weather_code": 1
         }
@@ -698,14 +742,14 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 30.3,
-          "temp_min": 21.6,
-          "wind_speed_10m_max": 16.3,
+          "temp_max": 30.2,
+          "temp_min": 21.5,
+          "wind_speed_10m_max": 16.5,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 30.3,
+          "temp_max": 30.2,
           "temp_min": 19.8,
           "wind_speed_10m_max": 27.6,
           "weather_code": 1
@@ -724,23 +768,45 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 30.4,
-          "temp_min": 20.3,
+          "temp_max": 30.3,
+          "temp_min": 20.1,
           "wind_speed_10m_max": 11.5,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 33.7,
-          "temp_min": 20.8,
-          "wind_speed_10m_max": 17.9,
+          "temp_max": 33.9,
+          "temp_min": 20.3,
+          "wind_speed_10m_max": 18.8,
           "weather_code": 0
         }
       ]
     },
     {
       "name": "Praia do Vau",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-13",
+          "temp_max": 31.0,
+          "temp_min": 21.5,
+          "wind_speed_10m_max": 16.8,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-09-14",
+          "temp_max": 30.3,
+          "temp_min": 20.1,
+          "wind_speed_10m_max": 11.5,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-09-15",
+          "temp_max": 33.9,
+          "temp_min": 20.3,
+          "wind_speed_10m_max": 18.8,
+          "weather_code": 0
+        }
+      ]
     },
     {
       "name": "Praia dos Três Irmãos",
@@ -754,45 +820,23 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 30.5,
-          "temp_min": 20.4,
+          "temp_max": 30.4,
+          "temp_min": 20.2,
           "wind_speed_10m_max": 11.5,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 33.8,
-          "temp_min": 20.9,
-          "wind_speed_10m_max": 17.9,
+          "temp_max": 34.0,
+          "temp_min": 20.4,
+          "wind_speed_10m_max": 18.8,
           "weather_code": 0
         }
       ]
     },
     {
       "name": "Praia da Galé",
-      "days": [
-        {
-          "date": "2026-09-13",
-          "temp_max": 31.8,
-          "temp_min": 21.5,
-          "wind_speed_10m_max": 17.9,
-          "weather_code": 0
-        },
-        {
-          "date": "2026-09-14",
-          "temp_max": 30.7,
-          "temp_min": 20.0,
-          "wind_speed_10m_max": 14.2,
-          "weather_code": 0
-        },
-        {
-          "date": "2026-09-15",
-          "temp_max": 34.7,
-          "temp_min": 20.3,
-          "wind_speed_10m_max": 17.0,
-          "weather_code": 0
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia dos Salgados",
@@ -807,15 +851,15 @@
         {
           "date": "2026-09-14",
           "temp_max": 30.7,
-          "temp_min": 20.0,
-          "wind_speed_10m_max": 14.2,
+          "temp_min": 19.8,
+          "wind_speed_10m_max": 14.7,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 34.7,
-          "temp_min": 20.3,
-          "wind_speed_10m_max": 17.0,
+          "temp_max": 35.2,
+          "temp_min": 19.8,
+          "wind_speed_10m_max": 17.1,
           "weather_code": 0
         }
       ]
@@ -833,15 +877,15 @@
         {
           "date": "2026-09-14",
           "temp_max": 30.5,
-          "temp_min": 19.8,
-          "wind_speed_10m_max": 14.2,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 14.7,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 34.5,
-          "temp_min": 20.1,
-          "wind_speed_10m_max": 17.0,
+          "temp_max": 35.0,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 17.1,
           "weather_code": 0
         }
       ]
@@ -859,15 +903,15 @@
         {
           "date": "2026-09-14",
           "temp_max": 25.5,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 15.8,
+          "temp_min": 17.5,
+          "wind_speed_10m_max": 15.5,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 21.8,
-          "temp_min": 17.9,
-          "wind_speed_10m_max": 21.1,
+          "temp_min": 17.6,
+          "wind_speed_10m_max": 21.0,
           "weather_code": 1
         }
       ]
@@ -884,16 +928,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 25.0,
-          "temp_min": 19.0,
-          "wind_speed_10m_max": 15.1,
+          "temp_max": 24.9,
+          "temp_min": 18.8,
+          "wind_speed_10m_max": 14.6,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 21.9,
           "temp_min": 18.4,
-          "wind_speed_10m_max": 23.0,
+          "wind_speed_10m_max": 23.1,
           "weather_code": 1
         }
       ]
@@ -910,16 +954,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 24.7,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 15.1,
+          "temp_max": 24.6,
+          "temp_min": 18.5,
+          "wind_speed_10m_max": 14.6,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 21.6,
           "temp_min": 18.1,
-          "wind_speed_10m_max": 23.0,
+          "wind_speed_10m_max": 23.1,
           "weather_code": 1
         }
       ]
@@ -936,16 +980,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 24.8,
-          "temp_min": 18.8,
-          "wind_speed_10m_max": 15.1,
+          "temp_max": 24.7,
+          "temp_min": 18.7,
+          "wind_speed_10m_max": 14.6,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 21.7,
           "temp_min": 18.3,
-          "wind_speed_10m_max": 23.0,
+          "wind_speed_10m_max": 23.1,
           "weather_code": 1
         }
       ]
@@ -962,23 +1006,45 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 28.7,
-          "temp_min": 18.1,
-          "wind_speed_10m_max": 17.6,
+          "temp_max": 28.5,
+          "temp_min": 17.9,
+          "wind_speed_10m_max": 17.1,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 23.9,
-          "temp_min": 17.5,
-          "wind_speed_10m_max": 20.9,
+          "temp_max": 24.0,
+          "temp_min": 17.4,
+          "wind_speed_10m_max": 19.4,
           "weather_code": 1
         }
       ]
     },
     {
       "name": "Praia do Carvalhal (Odemira)",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-13",
+          "temp_max": 32.8,
+          "temp_min": 17.8,
+          "wind_speed_10m_max": 15.3,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-09-14",
+          "temp_max": 29.4,
+          "temp_min": 17.9,
+          "wind_speed_10m_max": 15.8,
+          "weather_code": 0
+        },
+        {
+          "date": "2026-09-15",
+          "temp_max": 24.5,
+          "temp_min": 18.4,
+          "wind_speed_10m_max": 19.4,
+          "weather_code": 1
+        }
+      ]
     },
     {
       "name": "Praia dos Aivados",
@@ -992,16 +1058,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 25.0,
-          "temp_min": 19.0,
-          "wind_speed_10m_max": 15.1,
+          "temp_max": 24.9,
+          "temp_min": 18.8,
+          "wind_speed_10m_max": 14.6,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
           "temp_max": 21.9,
           "temp_min": 18.4,
-          "wind_speed_10m_max": 23.0,
+          "wind_speed_10m_max": 23.1,
           "weather_code": 1
         }
       ]
@@ -1018,16 +1084,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 29.9,
-          "temp_min": 19.5,
-          "wind_speed_10m_max": 16.6,
+          "temp_max": 29.7,
+          "temp_min": 19.4,
+          "wind_speed_10m_max": 16.3,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 25.9,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 19.2,
+          "temp_max": 26.0,
+          "temp_min": 18.9,
+          "wind_speed_10m_max": 18.9,
           "weather_code": 1
         }
       ]
@@ -1044,16 +1110,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 29.7,
-          "temp_min": 19.3,
-          "wind_speed_10m_max": 16.6,
+          "temp_max": 29.5,
+          "temp_min": 19.2,
+          "wind_speed_10m_max": 16.3,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 25.7,
-          "temp_min": 18.5,
-          "wind_speed_10m_max": 19.2,
+          "temp_max": 25.8,
+          "temp_min": 18.7,
+          "wind_speed_10m_max": 18.9,
           "weather_code": 1
         }
       ]
@@ -1070,16 +1136,16 @@
         },
         {
           "date": "2026-09-14",
-          "temp_max": 28.4,
-          "temp_min": 19.6,
-          "wind_speed_10m_max": 13.8,
+          "temp_max": 28.2,
+          "temp_min": 19.4,
+          "wind_speed_10m_max": 13.4,
           "weather_code": 0
         },
         {
           "date": "2026-09-15",
-          "temp_max": 24.4,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 18.9,
+          "temp_max": 24.6,
+          "temp_min": 18.6,
+          "wind_speed_10m_max": 18.6,
           "weather_code": 1
         }
       ]
