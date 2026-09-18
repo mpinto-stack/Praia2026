@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-09-18T20:02:02.477766+01:00",
-  "generated_at_utc": "2026-09-18T19:02:02.477766+00:00",
+  "generated_at_local": "2026-09-18T23:35:15.670293+01:00",
+  "generated_at_utc": "2026-09-18T22:35:15.670293+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -212,29 +212,7 @@
     },
     {
       "name": "Praia de Vale Figueiras",
-      "days": [
-        {
-          "date": "2026-09-18",
-          "temp_max": 23.3,
-          "temp_min": 17.2,
-          "wind_speed_10m_max": 13.5,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-09-19",
-          "temp_max": 27.3,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 12.2,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-09-20",
-          "temp_max": 30.9,
-          "temp_min": 20.0,
-          "wind_speed_10m_max": 16.8,
-          "weather_code": 1
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Odeceixe",
@@ -368,7 +346,29 @@
     },
     {
       "name": "Praia da Salema",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-18",
+          "temp_max": 25.2,
+          "temp_min": 17.1,
+          "wind_speed_10m_max": 16.4,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-09-19",
+          "temp_max": 28.2,
+          "temp_min": 18.0,
+          "wind_speed_10m_max": 15.4,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-09-20",
+          "temp_max": 27.9,
+          "temp_min": 21.4,
+          "wind_speed_10m_max": 23.8,
+          "weather_code": 1
+        }
+      ]
     },
     {
       "name": "Praia do Burgau",
@@ -450,29 +450,7 @@
     },
     {
       "name": "Praia do Castelejo",
-      "days": [
-        {
-          "date": "2026-09-18",
-          "temp_max": 22.4,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 20.4,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-09-19",
-          "temp_max": 26.0,
-          "temp_min": 18.8,
-          "wind_speed_10m_max": 14.3,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-09-20",
-          "temp_max": 27.7,
-          "temp_min": 21.2,
-          "wind_speed_10m_max": 25.4,
-          "weather_code": 1
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia da Cordoama",
@@ -814,29 +792,7 @@
     },
     {
       "name": "Praia da Galé",
-      "days": [
-        {
-          "date": "2026-09-18",
-          "temp_max": 27.0,
-          "temp_min": 17.9,
-          "wind_speed_10m_max": 12.9,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-09-19",
-          "temp_max": 30.5,
-          "temp_min": 18.5,
-          "wind_speed_10m_max": 17.4,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-09-20",
-          "temp_max": 31.0,
-          "temp_min": 20.9,
-          "wind_speed_10m_max": 20.5,
-          "weather_code": 1
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia dos Salgados",
@@ -892,7 +848,29 @@
     },
     {
       "name": "Praia do Almograve",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-18",
+          "temp_max": 20.9,
+          "temp_min": 15.4,
+          "wind_speed_10m_max": 17.6,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-09-19",
+          "temp_max": 23.7,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 14.1,
+          "weather_code": 2
+        },
+        {
+          "date": "2026-09-20",
+          "temp_max": 27.5,
+          "temp_min": 17.0,
+          "wind_speed_10m_max": 15.1,
+          "weather_code": 1
+        }
+      ]
     },
     {
       "name": "Praia do Malhão",
@@ -1052,29 +1030,7 @@
     },
     {
       "name": "Praia da Ilha do Pessegueiro",
-      "days": [
-        {
-          "date": "2026-09-18",
-          "temp_max": 26.3,
-          "temp_min": 16.0,
-          "wind_speed_10m_max": 16.6,
-          "weather_code": 0
-        },
-        {
-          "date": "2026-09-19",
-          "temp_max": 28.4,
-          "temp_min": 16.8,
-          "wind_speed_10m_max": 16.6,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-09-20",
-          "temp_max": 33.6,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 15.1,
-          "weather_code": 1
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia Grande de Porto Covo",
