@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-10-17T13:09:32.094954+01:00",
-  "generated_at_utc": "2026-10-17T12:09:32.094954+00:00",
+  "generated_at_local": "2026-10-17T16:28:53.446991+01:00",
+  "generated_at_utc": "2026-10-17T15:28:53.446991+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
@@ -706,29 +706,7 @@
     },
     {
       "name": "Praia Dona Ana",
-      "days": [
-        {
-          "date": "2026-10-17",
-          "temp_max": 25.2,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 27.6,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-10-18",
-          "temp_max": 23.6,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 14.8,
-          "weather_code": 80
-        },
-        {
-          "date": "2026-10-19",
-          "temp_max": 22.2,
-          "temp_min": 16.0,
-          "wind_speed_10m_max": 13.1,
-          "weather_code": 3
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia do Camilo",
@@ -758,7 +736,29 @@
     },
     {
       "name": "Praia da Rocha",
-      "days": []
+      "days": [
+        {
+          "date": "2026-10-17",
+          "temp_max": 27.0,
+          "temp_min": 18.5,
+          "wind_speed_10m_max": 18.9,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-10-18",
+          "temp_max": 23.5,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 12.0,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-10-19",
+          "temp_max": 22.3,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 11.7,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia do Vau",
