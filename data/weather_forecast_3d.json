@@ -1,30 +1,30 @@
 {
-  "generated_at_local": "2026-11-12T16:47:52.027219+00:00",
-  "generated_at_utc": "2026-11-12T16:47:52.027219+00:00",
+  "generated_at_local": "2026-11-13T01:02:12.328926+00:00",
+  "generated_at_utc": "2026-11-13T01:02:12.328926+00:00",
   "items": [
     {
       "name": "Praia da Amoreira",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.4,
-          "temp_min": 17.9,
-          "wind_speed_10m_max": 21.9,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.4,
-          "temp_min": 17.2,
-          "wind_speed_10m_max": 20.0,
-          "weather_code": 80
+          "temp_max": 19.3,
+          "temp_min": 17.0,
+          "wind_speed_10m_max": 18.0,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.3,
-          "temp_min": 15.5,
-          "wind_speed_10m_max": 15.8,
+          "temp_max": 19.7,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 15.3,
           "weather_code": 95
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.4,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 19.6,
+          "weather_code": 61
         }
       ]
     },
@@ -32,25 +32,25 @@
       "name": "Praia de Monte Clérigo",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.4,
-          "temp_min": 17.9,
-          "wind_speed_10m_max": 21.9,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.4,
-          "temp_min": 17.2,
-          "wind_speed_10m_max": 20.0,
-          "weather_code": 80
+          "temp_max": 19.3,
+          "temp_min": 17.0,
+          "wind_speed_10m_max": 18.0,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.3,
-          "temp_min": 15.5,
-          "wind_speed_10m_max": 15.8,
+          "temp_max": 19.7,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 15.3,
           "weather_code": 95
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.3,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 19.6,
+          "weather_code": 61
         }
       ]
     },
@@ -58,25 +58,25 @@
       "name": "Praia da Arrifana",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.7,
-          "temp_min": 18.1,
-          "wind_speed_10m_max": 22.5,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.3,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 18.8,
-          "weather_code": 80
+          "temp_max": 19.4,
+          "temp_min": 17.1,
+          "wind_speed_10m_max": 16.2,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.4,
-          "temp_min": 15.4,
-          "wind_speed_10m_max": 15.5,
+          "temp_max": 20.1,
+          "temp_min": 14.6,
+          "wind_speed_10m_max": 15.7,
           "weather_code": 95
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.4,
+          "temp_min": 14.5,
+          "wind_speed_10m_max": 18.7,
+          "weather_code": 61
         }
       ]
     },
@@ -84,25 +84,25 @@
       "name": "Praia da Barradinha",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.3,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 21.9,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.3,
-          "temp_min": 17.1,
-          "wind_speed_10m_max": 20.0,
-          "weather_code": 80
+          "temp_max": 19.2,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 18.0,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.2,
-          "temp_min": 15.4,
-          "wind_speed_10m_max": 15.8,
+          "temp_max": 19.6,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 15.3,
           "weather_code": 95
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.3,
+          "temp_min": 14.7,
+          "wind_speed_10m_max": 19.6,
+          "weather_code": 61
         }
       ]
     },
@@ -110,25 +110,25 @@
       "name": "Praia da Carriagem",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.2,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 21.9,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.2,
-          "temp_min": 17.0,
-          "wind_speed_10m_max": 20.0,
-          "weather_code": 80
+          "temp_max": 19.1,
+          "temp_min": 16.8,
+          "wind_speed_10m_max": 18.0,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.1,
-          "temp_min": 15.3,
-          "wind_speed_10m_max": 15.8,
+          "temp_max": 19.5,
+          "temp_min": 14.7,
+          "wind_speed_10m_max": 15.3,
           "weather_code": 95
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.1,
+          "temp_min": 14.5,
+          "wind_speed_10m_max": 19.6,
+          "weather_code": 61
         }
       ]
     },
@@ -136,25 +136,25 @@
       "name": "Praia da Samouqueira",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.3,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 21.9,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.3,
-          "temp_min": 17.1,
-          "wind_speed_10m_max": 20.0,
-          "weather_code": 80
+          "temp_max": 19.2,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 18.0,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.2,
-          "temp_min": 15.4,
-          "wind_speed_10m_max": 15.8,
+          "temp_max": 19.6,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 15.3,
           "weather_code": 95
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.3,
+          "temp_min": 14.7,
+          "wind_speed_10m_max": 19.6,
+          "weather_code": 61
         }
       ]
     },
@@ -162,25 +162,25 @@
       "name": "Praia de Vale dos Homens",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.4,
-          "temp_min": 17.9,
-          "wind_speed_10m_max": 21.9,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.4,
-          "temp_min": 17.2,
-          "wind_speed_10m_max": 20.0,
-          "weather_code": 80
+          "temp_max": 19.3,
+          "temp_min": 17.0,
+          "wind_speed_10m_max": 18.0,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.3,
-          "temp_min": 15.5,
-          "wind_speed_10m_max": 15.8,
+          "temp_max": 19.7,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 15.3,
           "weather_code": 95
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.4,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 19.6,
+          "weather_code": 61
         }
       ]
     },
@@ -188,55 +188,77 @@
       "name": "Praia do Canal",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.7,
-          "temp_min": 18.0,
-          "wind_speed_10m_max": 22.5,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.3,
-          "temp_min": 17.5,
-          "wind_speed_10m_max": 18.8,
-          "weather_code": 80
+          "temp_max": 19.3,
+          "temp_min": 17.1,
+          "wind_speed_10m_max": 16.2,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.4,
-          "temp_min": 15.3,
-          "wind_speed_10m_max": 15.5,
+          "temp_max": 20.0,
+          "temp_min": 14.6,
+          "wind_speed_10m_max": 15.7,
           "weather_code": 95
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.4,
+          "temp_min": 14.4,
+          "wind_speed_10m_max": 18.7,
+          "weather_code": 61
         }
       ]
     },
     {
       "name": "Praia de Vale Figueiras",
-      "days": []
+      "days": [
+        {
+          "date": "2026-11-13",
+          "temp_max": 19.4,
+          "temp_min": 17.1,
+          "wind_speed_10m_max": 16.2,
+          "weather_code": 95
+        },
+        {
+          "date": "2026-11-14",
+          "temp_max": 20.1,
+          "temp_min": 14.6,
+          "wind_speed_10m_max": 15.7,
+          "weather_code": 95
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.4,
+          "temp_min": 14.5,
+          "wind_speed_10m_max": 18.7,
+          "weather_code": 61
+        }
+      ]
     },
     {
       "name": "Praia de Odeceixe",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.3,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 22.9,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.1,
-          "temp_min": 17.2,
-          "wind_speed_10m_max": 19.8,
-          "weather_code": 80
+          "temp_max": 19.6,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 19.4,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.3,
-          "temp_min": 15.6,
-          "wind_speed_10m_max": 16.7,
-          "weather_code": 95
+          "temp_max": 19.7,
+          "temp_min": 15.4,
+          "wind_speed_10m_max": 16.4,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.2,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 21.1,
+          "weather_code": 80
         }
       ]
     },
@@ -244,25 +266,25 @@
       "name": "Praia das Adegas",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.3,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 22.9,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.1,
-          "temp_min": 17.2,
-          "wind_speed_10m_max": 19.8,
-          "weather_code": 80
+          "temp_max": 19.6,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 19.4,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.3,
-          "temp_min": 15.6,
-          "wind_speed_10m_max": 16.7,
-          "weather_code": 95
+          "temp_max": 19.7,
+          "temp_min": 15.4,
+          "wind_speed_10m_max": 16.4,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.2,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 21.1,
+          "weather_code": 80
         }
       ]
     },
@@ -270,25 +292,25 @@
       "name": "Praia da Bordeira",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.0,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 22.4,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.1,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 16.7,
-          "weather_code": 80
+          "temp_max": 19.9,
+          "temp_min": 17.3,
+          "wind_speed_10m_max": 16.5,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.6,
-          "temp_min": 15.8,
-          "wind_speed_10m_max": 14.8,
-          "weather_code": 80
+          "temp_max": 20.3,
+          "temp_min": 15.4,
+          "wind_speed_10m_max": 15.2,
+          "weather_code": 95
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.5,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 17.7,
+          "weather_code": 61
         }
       ]
     },
@@ -296,25 +318,25 @@
       "name": "Praia do Amado",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.0,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 22.4,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.1,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 16.7,
-          "weather_code": 80
+          "temp_max": 19.9,
+          "temp_min": 17.3,
+          "wind_speed_10m_max": 16.5,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.6,
-          "temp_min": 15.8,
-          "wind_speed_10m_max": 14.8,
-          "weather_code": 80
+          "temp_max": 20.3,
+          "temp_min": 15.4,
+          "wind_speed_10m_max": 15.2,
+          "weather_code": 95
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.5,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 17.7,
+          "weather_code": 61
         }
       ]
     },
@@ -322,25 +344,25 @@
       "name": "Praia da Ingrina",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.3,
-          "temp_min": 18.1,
-          "wind_speed_10m_max": 25.7,
-          "weather_code": 3
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 19.8,
-          "temp_min": 17.2,
-          "wind_speed_10m_max": 18.7,
+          "temp_max": 20.0,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 17.9,
           "weather_code": 80
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.7,
-          "temp_min": 15.4,
-          "wind_speed_10m_max": 16.2,
+          "temp_max": 20.6,
+          "temp_min": 15.5,
+          "wind_speed_10m_max": 16.5,
           "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.7,
+          "temp_min": 15.2,
+          "wind_speed_10m_max": 18.1,
+          "weather_code": 61
         }
       ]
     },
@@ -348,25 +370,25 @@
       "name": "Praia da Salema",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.3,
-          "temp_min": 18.1,
-          "wind_speed_10m_max": 25.7,
-          "weather_code": 3
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 19.9,
-          "temp_min": 17.2,
-          "wind_speed_10m_max": 18.7,
+          "temp_max": 20.0,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 17.9,
           "weather_code": 80
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.7,
-          "temp_min": 15.4,
-          "wind_speed_10m_max": 16.2,
+          "temp_max": 20.6,
+          "temp_min": 15.5,
+          "wind_speed_10m_max": 16.5,
           "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.7,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 18.1,
+          "weather_code": 61
         }
       ]
     },
@@ -374,25 +396,25 @@
       "name": "Praia do Burgau",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.7,
-          "temp_min": 18.2,
-          "wind_speed_10m_max": 26.2,
-          "weather_code": 2
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.3,
-          "temp_min": 17.3,
-          "wind_speed_10m_max": 19.5,
+          "temp_max": 20.4,
+          "temp_min": 17.1,
+          "wind_speed_10m_max": 19.2,
           "weather_code": 2
         },
         {
           "date": "2026-11-14",
-          "temp_max": 20.2,
-          "temp_min": 15.9,
+          "temp_max": 21.1,
+          "temp_min": 15.2,
           "wind_speed_10m_max": 17.0,
-          "weather_code": 2
+          "weather_code": 3
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.9,
+          "temp_min": 13.6,
+          "wind_speed_10m_max": 18.7,
+          "weather_code": 61
         }
       ]
     },
@@ -400,25 +422,25 @@
       "name": "Praia da Zambujeira do Mar",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.4,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 24.1,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.0,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 18.9,
-          "weather_code": 80
+          "temp_max": 19.8,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 19.6,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
+          "temp_max": 19.6,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 17.4,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
           "temp_max": 19.1,
-          "temp_min": 15.3,
-          "wind_speed_10m_max": 16.0,
-          "weather_code": 95
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 21.1,
+          "weather_code": 80
         }
       ]
     },
@@ -426,25 +448,25 @@
       "name": "Praia dos Alteirinhos",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.4,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 24.1,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.0,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 18.9,
-          "weather_code": 80
+          "temp_max": 19.8,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 19.6,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
+          "temp_max": 19.6,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 17.4,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
           "temp_max": 19.1,
-          "temp_min": 15.3,
-          "wind_speed_10m_max": 16.0,
-          "weather_code": 95
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 21.1,
+          "weather_code": 80
         }
       ]
     },
@@ -452,25 +474,25 @@
       "name": "Praia do Castelejo",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.0,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 25.1,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 19.9,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 18.1,
-          "weather_code": 80
+          "temp_max": 19.8,
+          "temp_min": 17.6,
+          "wind_speed_10m_max": 18.0,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.5,
-          "temp_min": 16.1,
-          "wind_speed_10m_max": 16.2,
+          "temp_max": 20.3,
+          "temp_min": 16.3,
+          "wind_speed_10m_max": 15.3,
           "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.5,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 18.9,
+          "weather_code": 61
         }
       ]
     },
@@ -478,25 +500,25 @@
       "name": "Praia da Cordoama",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.0,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 25.1,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 19.9,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 18.1,
-          "weather_code": 80
+          "temp_max": 19.8,
+          "temp_min": 17.6,
+          "wind_speed_10m_max": 18.0,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.5,
-          "temp_min": 16.1,
-          "wind_speed_10m_max": 16.2,
+          "temp_max": 20.3,
+          "temp_min": 16.3,
+          "wind_speed_10m_max": 15.3,
           "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.5,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 18.9,
+          "weather_code": 61
         }
       ]
     },
@@ -504,107 +526,107 @@
       "name": "Praia do Tonel",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.9,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 25.1,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 19.9,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 18.1,
-          "weather_code": 80
+          "temp_max": 19.8,
+          "temp_min": 17.5,
+          "wind_speed_10m_max": 18.0,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.5,
-          "temp_min": 16.1,
-          "wind_speed_10m_max": 16.2,
+          "temp_max": 20.3,
+          "temp_min": 16.3,
+          "wind_speed_10m_max": 15.3,
           "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.5,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 18.9,
+          "weather_code": 61
         }
       ]
     },
     {
       "name": "Praia da Mareta",
-      "days": [
-        {
-          "date": "2026-11-12",
-          "temp_max": 19.9,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 25.1,
-          "weather_code": 80
-        },
-        {
-          "date": "2026-11-13",
-          "temp_max": 19.8,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 18.1,
-          "weather_code": 80
-        },
-        {
-          "date": "2026-11-14",
-          "temp_max": 19.4,
-          "temp_min": 16.1,
-          "wind_speed_10m_max": 16.2,
-          "weather_code": 80
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia do Beliche",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.8,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 25.1,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 19.8,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 18.1,
-          "weather_code": 80
+          "temp_max": 19.7,
+          "temp_min": 17.5,
+          "wind_speed_10m_max": 18.0,
+          "weather_code": 95
         },
         {
           "date": "2026-11-14",
-          "temp_max": 19.4,
-          "temp_min": 16.0,
-          "wind_speed_10m_max": 16.2,
+          "temp_max": 20.2,
+          "temp_min": 16.2,
+          "wind_speed_10m_max": 15.3,
           "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.4,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 18.9,
+          "weather_code": 61
         }
       ]
     },
     {
       "name": "Praia do Zavial",
-      "days": []
+      "days": [
+        {
+          "date": "2026-11-13",
+          "temp_max": 19.8,
+          "temp_min": 16.7,
+          "wind_speed_10m_max": 17.9,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-14",
+          "temp_max": 20.4,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 16.5,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.5,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 18.1,
+          "weather_code": 61
+        }
+      ]
     },
     {
       "name": "Praia da Luz",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.6,
-          "temp_min": 18.0,
-          "wind_speed_10m_max": 26.2,
-          "weather_code": 2
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.2,
-          "temp_min": 17.2,
-          "wind_speed_10m_max": 19.5,
+          "temp_max": 20.3,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 19.2,
           "weather_code": 2
         },
         {
           "date": "2026-11-14",
-          "temp_max": 20.1,
-          "temp_min": 15.7,
+          "temp_max": 21.0,
+          "temp_min": 15.0,
           "wind_speed_10m_max": 17.0,
-          "weather_code": 2
+          "weather_code": 3
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.8,
+          "temp_min": 13.5,
+          "wind_speed_10m_max": 18.7,
+          "weather_code": 61
         }
       ]
     },
@@ -612,25 +634,25 @@
       "name": "Praia de Porto de Mós",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.5,
-          "temp_min": 17.4,
-          "wind_speed_10m_max": 25.1,
-          "weather_code": 3
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.1,
-          "temp_min": 16.3,
-          "wind_speed_10m_max": 18.4,
-          "weather_code": 3
+          "temp_max": 20.4,
+          "temp_min": 16.4,
+          "wind_speed_10m_max": 18.2,
+          "weather_code": 2
         },
         {
           "date": "2026-11-14",
-          "temp_max": 20.1,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 16.9,
-          "weather_code": 2
+          "temp_max": 20.7,
+          "temp_min": 14.3,
+          "wind_speed_10m_max": 16.7,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.5,
+          "temp_min": 13.7,
+          "wind_speed_10m_max": 17.9,
+          "weather_code": 61
         }
       ]
     },
@@ -638,25 +660,25 @@
       "name": "Meia Praia",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.7,
-          "temp_min": 17.9,
-          "wind_speed_10m_max": 22.5,
-          "weather_code": 2
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.3,
-          "temp_min": 17.1,
-          "wind_speed_10m_max": 16.6,
-          "weather_code": 80
+          "temp_max": 20.5,
+          "temp_min": 17.0,
+          "wind_speed_10m_max": 15.6,
+          "weather_code": 2
         },
         {
           "date": "2026-11-14",
-          "temp_max": 20.3,
-          "temp_min": 15.5,
-          "wind_speed_10m_max": 15.4,
-          "weather_code": 2
+          "temp_max": 21.1,
+          "temp_min": 14.2,
+          "wind_speed_10m_max": 15.2,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.7,
+          "temp_min": 13.9,
+          "wind_speed_10m_max": 16.1,
+          "weather_code": 61
         }
       ]
     },
@@ -664,25 +686,25 @@
       "name": "Praia Dona Ana",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.7,
-          "temp_min": 18.0,
-          "wind_speed_10m_max": 22.5,
-          "weather_code": 2
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.4,
+          "temp_max": 20.6,
           "temp_min": 17.1,
-          "wind_speed_10m_max": 16.6,
-          "weather_code": 80
+          "wind_speed_10m_max": 15.6,
+          "weather_code": 2
         },
         {
           "date": "2026-11-14",
-          "temp_max": 20.4,
-          "temp_min": 15.6,
-          "wind_speed_10m_max": 15.4,
-          "weather_code": 2
+          "temp_max": 21.2,
+          "temp_min": 14.2,
+          "wind_speed_10m_max": 15.2,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.8,
+          "temp_min": 14.0,
+          "wind_speed_10m_max": 16.1,
+          "weather_code": 61
         }
       ]
     },
@@ -690,25 +712,25 @@
       "name": "Praia do Camilo",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.5,
-          "temp_min": 17.4,
-          "wind_speed_10m_max": 25.1,
-          "weather_code": 3
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.2,
-          "temp_min": 16.3,
-          "wind_speed_10m_max": 18.4,
-          "weather_code": 3
+          "temp_max": 20.4,
+          "temp_min": 16.5,
+          "wind_speed_10m_max": 18.2,
+          "weather_code": 2
         },
         {
           "date": "2026-11-14",
-          "temp_max": 20.1,
-          "temp_min": 15.0,
-          "wind_speed_10m_max": 16.9,
-          "weather_code": 2
+          "temp_max": 20.7,
+          "temp_min": 14.4,
+          "wind_speed_10m_max": 16.7,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.6,
+          "temp_min": 13.7,
+          "wind_speed_10m_max": 17.9,
+          "weather_code": 61
         }
       ]
     },
@@ -716,25 +738,25 @@
       "name": "Praia da Rocha",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.8,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 20.8,
+          "date": "2026-11-13",
+          "temp_max": 20.5,
+          "temp_min": 16.8,
+          "wind_speed_10m_max": 15.0,
           "weather_code": 3
         },
         {
-          "date": "2026-11-13",
-          "temp_max": 20.3,
-          "temp_min": 16.8,
-          "wind_speed_10m_max": 16.0,
-          "weather_code": 80
+          "date": "2026-11-14",
+          "temp_max": 21.2,
+          "temp_min": 13.0,
+          "wind_speed_10m_max": 14.5,
+          "weather_code": 2
         },
         {
-          "date": "2026-11-14",
-          "temp_max": 20.6,
-          "temp_min": 13.9,
-          "wind_speed_10m_max": 14.4,
-          "weather_code": 2
+          "date": "2026-11-15",
+          "temp_max": 19.5,
+          "temp_min": 12.5,
+          "wind_speed_10m_max": 13.8,
+          "weather_code": 61
         }
       ]
     },
@@ -742,25 +764,25 @@
       "name": "Praia do Vau",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.6,
-          "temp_min": 17.9,
-          "wind_speed_10m_max": 22.5,
-          "weather_code": 2
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.3,
+          "temp_max": 20.5,
           "temp_min": 17.0,
-          "wind_speed_10m_max": 16.6,
-          "weather_code": 80
+          "wind_speed_10m_max": 15.6,
+          "weather_code": 2
         },
         {
           "date": "2026-11-14",
-          "temp_max": 20.3,
-          "temp_min": 15.5,
-          "wind_speed_10m_max": 15.4,
-          "weather_code": 2
+          "temp_max": 21.1,
+          "temp_min": 14.1,
+          "wind_speed_10m_max": 15.2,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.7,
+          "temp_min": 13.9,
+          "wind_speed_10m_max": 16.1,
+          "weather_code": 61
         }
       ]
     },
@@ -768,25 +790,25 @@
       "name": "Praia dos Três Irmãos",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.9,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 20.8,
+          "date": "2026-11-13",
+          "temp_max": 20.6,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 15.0,
           "weather_code": 3
         },
         {
-          "date": "2026-11-13",
-          "temp_max": 20.4,
-          "temp_min": 16.9,
-          "wind_speed_10m_max": 16.0,
-          "weather_code": 80
+          "date": "2026-11-14",
+          "temp_max": 21.3,
+          "temp_min": 13.1,
+          "wind_speed_10m_max": 14.5,
+          "weather_code": 2
         },
         {
-          "date": "2026-11-14",
-          "temp_max": 20.7,
-          "temp_min": 14.0,
-          "wind_speed_10m_max": 14.4,
-          "weather_code": 2
+          "date": "2026-11-15",
+          "temp_max": 19.6,
+          "temp_min": 12.6,
+          "wind_speed_10m_max": 13.8,
+          "weather_code": 61
         }
       ]
     },
@@ -794,25 +816,25 @@
       "name": "Praia da Galé",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.9,
-          "temp_min": 17.5,
-          "wind_speed_10m_max": 24.5,
-          "weather_code": 3
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.4,
-          "temp_min": 16.4,
-          "wind_speed_10m_max": 18.6,
+          "temp_max": 20.3,
+          "temp_min": 16.7,
+          "wind_speed_10m_max": 16.8,
           "weather_code": 3
         },
         {
           "date": "2026-11-14",
-          "temp_max": 20.8,
-          "temp_min": 13.4,
-          "wind_speed_10m_max": 15.5,
+          "temp_max": 21.3,
+          "temp_min": 12.6,
+          "wind_speed_10m_max": 16.3,
           "weather_code": 45
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.5,
+          "temp_min": 11.9,
+          "wind_speed_10m_max": 15.6,
+          "weather_code": 61
         }
       ]
     },
@@ -820,25 +842,25 @@
       "name": "Praia dos Salgados",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.9,
-          "temp_min": 17.5,
-          "wind_speed_10m_max": 24.5,
-          "weather_code": 3
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.4,
-          "temp_min": 16.4,
-          "wind_speed_10m_max": 18.6,
+          "temp_max": 20.3,
+          "temp_min": 16.7,
+          "wind_speed_10m_max": 16.8,
           "weather_code": 3
         },
         {
           "date": "2026-11-14",
-          "temp_max": 20.8,
-          "temp_min": 13.4,
-          "wind_speed_10m_max": 15.5,
+          "temp_max": 21.3,
+          "temp_min": 12.6,
+          "wind_speed_10m_max": 16.3,
           "weather_code": 45
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.5,
+          "temp_min": 11.9,
+          "wind_speed_10m_max": 15.6,
+          "weather_code": 61
         }
       ]
     },
@@ -846,25 +868,25 @@
       "name": "Praia de São Rafael",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 20.7,
-          "temp_min": 17.3,
-          "wind_speed_10m_max": 24.5,
-          "weather_code": 3
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.2,
-          "temp_min": 16.2,
-          "wind_speed_10m_max": 18.6,
+          "temp_max": 20.1,
+          "temp_min": 16.5,
+          "wind_speed_10m_max": 16.8,
           "weather_code": 3
         },
         {
           "date": "2026-11-14",
-          "temp_max": 20.6,
-          "temp_min": 13.2,
-          "wind_speed_10m_max": 15.5,
+          "temp_max": 21.1,
+          "temp_min": 12.4,
+          "wind_speed_10m_max": 16.3,
           "weather_code": 45
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.3,
+          "temp_min": 11.7,
+          "wind_speed_10m_max": 15.6,
+          "weather_code": 61
         }
       ]
     },
@@ -872,25 +894,25 @@
       "name": "Praia do Almograve",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.3,
-          "temp_min": 18.1,
-          "wind_speed_10m_max": 25.7,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 19.5,
-          "temp_min": 17.9,
-          "wind_speed_10m_max": 20.0,
-          "weather_code": 2
+          "temp_max": 19.7,
+          "temp_min": 17.2,
+          "wind_speed_10m_max": 19.6,
+          "weather_code": 80
         },
         {
           "date": "2026-11-14",
-          "temp_max": 18.7,
-          "temp_min": 15.8,
-          "wind_speed_10m_max": 17.0,
+          "temp_max": 19.0,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 18.1,
           "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 18.5,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 20.8,
+          "weather_code": 61
         }
       ]
     },
@@ -898,25 +920,25 @@
       "name": "Praia do Malhão",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.5,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 25.7,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 19.7,
-          "temp_min": 18.0,
-          "wind_speed_10m_max": 20.0,
-          "weather_code": 2
+          "temp_max": 19.9,
+          "temp_min": 17.4,
+          "wind_speed_10m_max": 19.6,
+          "weather_code": 80
         },
         {
           "date": "2026-11-14",
-          "temp_max": 18.9,
-          "temp_min": 16.0,
-          "wind_speed_10m_max": 17.0,
+          "temp_max": 19.2,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 18.1,
           "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 18.7,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 20.8,
+          "weather_code": 61
         }
       ]
     },
@@ -924,24 +946,24 @@
       "name": "Praia do Farol",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.0,
-          "temp_min": 17.5,
-          "wind_speed_10m_max": 22.8,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 19.0,
-          "temp_min": 16.8,
-          "wind_speed_10m_max": 18.4,
+          "temp_max": 19.2,
+          "temp_min": 16.7,
+          "wind_speed_10m_max": 18.5,
           "weather_code": 80
         },
         {
           "date": "2026-11-14",
-          "temp_max": 18.3,
+          "temp_max": 18.7,
           "temp_min": 14.7,
-          "wind_speed_10m_max": 15.3,
+          "wind_speed_10m_max": 15.2,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 18.2,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 18.2,
           "weather_code": 80
         }
       ]
@@ -950,55 +972,77 @@
       "name": "Praia da Franquia",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.5,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 22.9,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 19.5,
-          "temp_min": 17.2,
-          "wind_speed_10m_max": 19.4,
+          "temp_max": 19.7,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 18.1,
           "weather_code": 80
         },
         {
           "date": "2026-11-14",
-          "temp_max": 18.9,
-          "temp_min": 15.3,
-          "wind_speed_10m_max": 16.7,
+          "temp_max": 19.2,
+          "temp_min": 14.6,
+          "wind_speed_10m_max": 16.9,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 18.5,
+          "temp_min": 14.6,
+          "wind_speed_10m_max": 17.6,
           "weather_code": 80
         }
       ]
     },
     {
       "name": "Praia das Furnas",
-      "days": []
-    },
-    {
-      "name": "Praia do Carvalhal (Odemira)",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.4,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 24.1,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 20.0,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 18.9,
+          "temp_max": 19.6,
+          "temp_min": 16.8,
+          "wind_speed_10m_max": 18.1,
           "weather_code": 80
         },
         {
           "date": "2026-11-14",
           "temp_max": 19.1,
-          "temp_min": 15.3,
-          "wind_speed_10m_max": 16.0,
+          "temp_min": 14.5,
+          "wind_speed_10m_max": 16.9,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 18.4,
+          "temp_min": 14.5,
+          "wind_speed_10m_max": 17.6,
+          "weather_code": 80
+        }
+      ]
+    },
+    {
+      "name": "Praia do Carvalhal (Odemira)",
+      "days": [
+        {
+          "date": "2026-11-13",
+          "temp_max": 19.8,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 19.6,
           "weather_code": 95
+        },
+        {
+          "date": "2026-11-14",
+          "temp_max": 19.6,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 17.4,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 19.1,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 21.1,
+          "weather_code": 80
         }
       ]
     },
@@ -1006,24 +1050,24 @@
       "name": "Praia dos Aivados",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.3,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 22.8,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 19.2,
+          "temp_max": 19.5,
           "temp_min": 17.0,
-          "wind_speed_10m_max": 18.4,
+          "wind_speed_10m_max": 18.5,
           "weather_code": 80
         },
         {
           "date": "2026-11-14",
-          "temp_max": 18.6,
+          "temp_max": 19.0,
           "temp_min": 15.0,
-          "wind_speed_10m_max": 15.3,
+          "wind_speed_10m_max": 15.2,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 18.4,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 18.2,
           "weather_code": 80
         }
       ]
@@ -1032,24 +1076,24 @@
       "name": "Praia da Ilha do Pessegueiro",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.1,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 22.3,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 18.9,
+          "temp_max": 19.5,
           "temp_min": 17.5,
-          "wind_speed_10m_max": 17.9,
+          "wind_speed_10m_max": 18.3,
           "weather_code": 80
         },
         {
           "date": "2026-11-14",
           "temp_max": 18.6,
-          "temp_min": 16.0,
-          "wind_speed_10m_max": 14.3,
+          "temp_min": 15.5,
+          "wind_speed_10m_max": 13.8,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 18.5,
+          "temp_min": 15.5,
+          "wind_speed_10m_max": 17.6,
           "weather_code": 80
         }
       ]
@@ -1058,24 +1102,24 @@
       "name": "Praia Grande de Porto Covo",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.0,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 22.3,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 18.7,
+          "temp_max": 19.3,
           "temp_min": 17.3,
-          "wind_speed_10m_max": 17.9,
+          "wind_speed_10m_max": 18.3,
           "weather_code": 80
         },
         {
           "date": "2026-11-14",
           "temp_max": 18.4,
-          "temp_min": 15.8,
-          "wind_speed_10m_max": 14.3,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 13.8,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 18.3,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 17.6,
           "weather_code": 80
         }
       ]
@@ -1084,24 +1128,24 @@
       "name": "Praia de São Torpes",
       "days": [
         {
-          "date": "2026-11-12",
-          "temp_max": 19.1,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 22.3,
-          "weather_code": 80
-        },
-        {
           "date": "2026-11-13",
-          "temp_max": 18.9,
+          "temp_max": 19.5,
           "temp_min": 17.5,
-          "wind_speed_10m_max": 17.9,
+          "wind_speed_10m_max": 18.3,
           "weather_code": 80
         },
         {
           "date": "2026-11-14",
           "temp_max": 18.6,
-          "temp_min": 16.0,
-          "wind_speed_10m_max": 14.3,
+          "temp_min": 15.5,
+          "wind_speed_10m_max": 13.8,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-11-15",
+          "temp_max": 18.5,
+          "temp_min": 15.5,
+          "wind_speed_10m_max": 17.6,
           "weather_code": 80
         }
       ]
